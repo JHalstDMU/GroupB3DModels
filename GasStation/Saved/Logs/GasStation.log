@@ -1097,3 +1097,9 @@ LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - d
 [2025.12.02-12.29.29:710][  0]LogMaterial: Display: Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: d786db1795a096c04642f3ca05449ace073be37e), compiling. 
 [2025.12.02-12.29.29:765][  0]LogMaterial: Display: Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 06a23e783ce147056f07eccbbce5401225db0cec), compiling. 
 [2025.12.02-12.29.30:156][  0]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks() took too long (0.463 seconds, threshold is 0.300 s), will parallelize next time.
+[2025.12.02-12.31.17:425][  0]LogDerivedDataCache: C:/Users/p2640523/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.02-12.34.24:266][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 57, format PCD3D_SM6) compile time exceeded threshold (35.854s)
+[2025.12.02-12.34.28:618][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 56, format PCD3D_SM6) compile time exceeded threshold (35.101s)
+[2025.12.02-12.34.43:329][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 58, format PCD3D_SM6) compile time exceeded threshold (32.283s)
+[2025.12.02-12.34.50:012][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 53, format PCD3D_SM6) compile time exceeded threshold (60.540s)
+[2025.12.02-12.35.02:022][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 52, format PCD3D_SM6) compile time exceeded threshold (57.880s)
