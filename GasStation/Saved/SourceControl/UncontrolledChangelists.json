@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/benb1/OneDrive/Documents/GitHub/GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/VH/PHASI4G00ZWRREZGFN09TO.uasset",
+				"C:/Users/benb1/OneDrive/Documents/GitHub/GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/L0/TV7DI9ZCKF84U7LXOGQX11.uasset",
+				"C:/Users/benb1/OneDrive/Documents/GitHub/GroupB3DModels/GasStation/Content/Models/Enviroment/Props/Material.uasset",
+				"C:/Users/benb1/OneDrive/Documents/GitHub/GroupB3DModels/GasStation/Content/Models/Enviroment/Props/StopSign.uasset",
 				"C:/Users/benb1/OneDrive/Documents/GitHub/GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset",
 				"C:/Users/benb1/OneDrive/Documents/GitHub/GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset",
 				"C:/Users/benb1/OneDrive/Documents/GitHub/GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
@@ -59,7 +63,6 @@
 				"C:/Users/benb1/OneDrive/Documents/GitHub/GroupB3DModels/GasStation/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/7/ZX/JUGNISA5MV8V8FE530PDPQ.uasset",
 				"C:/Users/benb1/OneDrive/Documents/GitHub/GroupB3DModels/GasStation/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/6/2R/TKXMGQLWGTB6FEH6EYY7NK.uasset",
 				"C:/Users/benb1/OneDrive/Documents/GitHub/GroupB3DModels/GasStation/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/3/9Y/O1HBCAIOGYKE5W89K0N3EC.uasset",
-				"C:/Users/benb1/OneDrive/Documents/GitHub/GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/VH/PHASI4G00ZWRREZGFN09TO.uasset",
 				"C:/Users/Max/OneDrive - De Montfort University/Documents/Year3/Module2/GroupB3DModels/GasStation/Content/Models/Layout/ModelGasStationForScale/FbxScene_BlockOutGasStation.uasset",
 				"C:/Users/Max/OneDrive - De Montfort University/Documents/Year3/Module2/GroupB3DModels/GasStation/Content/Models/Layout/ModelGasStationForScale/BlockOutGasStation.uasset",
 				"C:/Users/Max/OneDrive - De Montfort University/Documents/Year3/Module2/GroupB3DModels/GasStation/Content/Models/Layout/ModelGasStationForScale/Cube_001.uasset",
