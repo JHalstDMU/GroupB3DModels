@@ -2394,3 +2394,285 @@ FPackageName: Skipped package /Game/Models/Export_Art/Enviroment/Props/UFO_m_001
 [2026.01.08-12.57.21:232][580]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3561.044678
 [2026.01.08-12.57.22:233][583]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.08-12.57.22:233][583]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3561.711670, Update Interval: 316.315186
+[2026.01.08-12.59.51:611][ 31]LogDerivedDataCache: C:/Users/p2640523/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.08-13.01.45:324][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.01.08-13.01.45:397][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/LL/Z2WT831STRRAXX5EV1IJAI_Auto6
+[2026.01.08-13.01.45:397][371]LogSavePackage: Moving 'H:/Documents/GitHub/GroupB3DModels/GasStation/Saved/Z2WT831STRRAXX5EV1IJAI_Auto66FE635C846729D3BB6F98EBF32970F4D.tmp' to 'H:/Documents/GitHub/GroupB3DModels/GasStation/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/LL/Z2WT831STRRAXX5EV1IJAI_Auto6.uasset'
+[2026.01.08-13.01.45:447][371]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.134
+[2026.01.08-13.01.45:447][371]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.134
+[2026.01.08-13.01.45:448][371]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Export_Art/Motel/Interior/AshTray] ([1] browsable assets)...
+[2026.01.08-13.01.45:586][371]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Export_Art/Motel/Interior/AshTray.AshTray]
+[2026.01.08-13.01.45:586][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Export_Art/Motel/Interior/AshTray]
+[2026.01.08-13.01.45:687][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Export_Art/Motel/Interior/AshTray_Auto6
+[2026.01.08-13.01.45:687][371]LogSavePackage: Moving 'H:/Documents/GitHub/GroupB3DModels/GasStation/Saved/AshTray_Auto6540D43BC4D9ED63E2E576F8EAB03A2C7.tmp' to 'H:/Documents/GitHub/GroupB3DModels/GasStation/Saved/Autosaves/Game/Models/Export_Art/Motel/Interior/AshTray_Auto6.uasset'
+[2026.01.08-13.01.45:694][371]LogFileHelpers: Auto-saving content packages took 0.246
+[2026.01.08-13.03.34:397][699]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3934.208008
+[2026.01.08-13.03.35:397][702]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-13.03.35:397][702]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3934.874756, Update Interval: 338.680389
+[2026.01.08-13.09.51:128][828]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4310.954590
+[2026.01.08-13.09.52:129][832]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-13.09.52:129][832]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4311.621582, Update Interval: 312.306885
+[2026.01.08-13.15.38:188][870]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4658.037598
+[2026.01.08-13.15.39:188][873]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-13.15.39:188][873]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4658.704590, Update Interval: 342.837006
+[2026.01.08-13.21.53:749][840]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5033.618652
+[2026.01.08-13.21.54:091][846]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-13.21.54:091][846]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5033.850586, Update Interval: 359.756470
+[2026.01.08-13.27.41:813][882]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for H:/Documents/GitHub/GroupB3DModels/GasStation/Content/Models/Export_Art/Environment/Props, because GetFilenameOnDisk returned non-matching filename '//vfiler1.lec-admin.dmu.ac.uk/Home3/P2640523/Documents/GitHub/GroupB3DModels/GasStation/Content/Models/Export_Art/Environment/Props'.
+[2026.01.08-13.27.41:815][882]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for H:/Documents/GitHub/GroupB3DModels/GasStation/Content/Models/Export_Art/Environment/Props, because GetFilenameOnDisk returned non-matching filename '//vfiler1.lec-admin.dmu.ac.uk/Home3/P2640523/Documents/GitHub/GroupB3DModels/GasStation/Content/Models/Export_Art/Environment/Props'.
+[2026.01.08-13.27.44:545][ 17]LogStreaming: Display: FlushAsyncLoading(1027): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.08-13.27.44:568][ 17]LogInterchangeEngine: [Pending] Importing
+[2026.01.08-13.27.44:568][ 17]LogInterchangeEngine: Display: Interchange start importing source [H:/Documents/GitHub/GroupB3DModels/Export Art/Environment/Props/Manhole.fbx]
+[2026.01.08-13.27.44:739][ 19]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for H:/Documents/GitHub/GroupB3DModels/GasStation/Content/Models/Export_Art/Environment/Props, because GetFilenameOnDisk returned non-matching filename '//vfiler1.lec-admin.dmu.ac.uk/Home3/P2640523/Documents/GitHub/GroupB3DModels/GasStation/Content/Models/Export_Art/Environment/Props'.
+[2026.01.08-13.27.44:741][ 19]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for H:/Documents/GitHub/GroupB3DModels/GasStation/Content/Models/Export_Art/Environment/Props, because GetFilenameOnDisk returned non-matching filename '//vfiler1.lec-admin.dmu.ac.uk/Home3/P2640523/Documents/GitHub/GroupB3DModels/GasStation/Content/Models/Export_Art/Environment/Props'.
+[2026.01.08-13.27.44:743][ 19]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for H:/Documents/GitHub/GroupB3DModels/GasStation/Content/Models/Export_Art/Environment/Props, because GetFilenameOnDisk returned non-matching filename '//vfiler1.lec-admin.dmu.ac.uk/Home3/P2640523/Documents/GitHub/GroupB3DModels/GasStation/Content/Models/Export_Art/Environment/Props'.
+[2026.01.08-13.27.45:124][ 23]Interchange: Warning: [H:/Documents/GitHub/GroupB3DModels/Export Art/Environment/Props/Manhole.fbx : '', Unknown] No smoothing group information was found for this mesh 'Circle_002' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.01.08-13.27.45:124][ 23]Interchange: Warning: [H:/Documents/GitHub/GroupB3DModels/Export Art/Environment/Props/Manhole.fbx : '', Unknown] No smoothing group information was found for this mesh 'Cube' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.01.08-13.27.45:124][ 23]Interchange: Warning: [H:/Documents/GitHub/GroupB3DModels/Export Art/Environment/Props/Manhole.fbx : '', Unknown] No smoothing group information was found for this mesh 'SKM_Quinn_LOD0' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.01.08-13.27.45:161][ 23]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.08-13.27.45:161][ 23]LogInterchangeEngine: [Success] Import Done
+[2026.01.08-13.28.07:319][619]LogInterchangeEngine: [Pending] Importing
+[2026.01.08-13.28.07:319][619]LogInterchangeEngine: Display: Interchange start importing source [H:/Documents/GitHub/GroupB3DModels/Export Art/Environment/Props/Manhole.fbx]
+[2026.01.08-13.28.07:506][623]LogStaticMesh: Display: Building static mesh Manhole (Required Memory Estimate: 0.203209 MB)...
+[2026.01.08-13.28.07:506][623]LogStaticMesh: Adjacency [0.00s], tris: 128, UVs 1
+[2026.01.08-13.28.07:506][623]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.08-13.28.07:506][623]LogStaticMesh: Leaves [0.00s]
+[2026.01.08-13.28.07:506][623]LogStaticMesh: Reduce [0.00s]
+[2026.01.08-13.28.07:507][623]LogStaticMesh: Fallback [0.00s], num tris: 128
+[2026.01.08-13.28.07:508][623]LogStaticMesh: ConstrainClusters:
+[2026.01.08-13.28.07:508][623]LogStaticMesh:   Input: 1 Clusters, 128 Triangles and 66 Vertices
+[2026.01.08-13.28.07:508][623]LogStaticMesh:   Output without splits: 1 Clusters, 128 Triangles and 70 Vertices
+[2026.01.08-13.28.07:508][623]LogStaticMesh:   Output with splits: 1 Clusters, 128 Triangles and 70 Vertices
+[2026.01.08-13.28.07:508][623]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.08-13.28.07:508][623]LogStaticMesh: WritePages:
+[2026.01.08-13.28.07:508][623]LogStaticMesh:   Root: GPU size: 1084 bytes. 1 Pages. 1084.000 bytes per page (3.308% utilization).
+[2026.01.08-13.28.07:508][623]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.08-13.28.07:508][623]LogStaticMesh:   Page data disk size: 1152 bytes. Fixup data size: 24 bytes.
+[2026.01.08-13.28.07:508][623]LogStaticMesh:   Total GPU size: 1084 bytes, Total disk size: 1176 bytes.
+[2026.01.08-13.28.07:508][623]LogStaticMesh: Encode [0.00s]
+[2026.01.08-13.28.07:508][623]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.08-13.28.07:509][623]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/Environment/Props/Manhole.Manhole
+[2026.01.08-13.28.07:563][623]LogInterchangeEngine: Display: Interchange import completed [H:/Documents/GitHub/...rt/Environment/Props/Manhole.fbx]
+[2026.01.08-13.28.07:563][623]Interchange: Warning: [H:/Documents/GitHub/GroupB3DModels/Export Art/Environment/Props/Manhole.fbx : 'Manhole', StaticMesh] No smoothing group information was found for this mesh 'Circle_002' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.01.08-13.28.07:576][623]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.08-13.28.07:576][623]LogInterchangeEngine: [Success] Import Done
+[2026.01.08-13.28.10:078][777]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: ================================================
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: Total job queries 565, among them cache hits 227 (40.18%), DDC hits 270 (47.79%), Duplicates 20 (3.54%)
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: Tracking 318 distinct input hashes that result in 268 distinct outputs (84.28%)
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: RAM used: 164.90 KiB of 819.20 MiB budget. Usage: 0.02%
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: Shaders Compiled: 48
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: Jobs assigned 48, completed 48 (100%)
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: Average time worker was idle: 842.83 s
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.27 s
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: Job execution time: average 1.30 s, max 2.93 s
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: Job life time (pending + execution): average 1.38 s, max 2.93
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: Shader code size: average 8.784 KiB, min 4.172 KiB, max 20.129 KiB
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.47 s
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: Jobs were issued in 48 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: Average processing rate: 3.85 jobs/sec
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: Total thread time: 26.115 s
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: Total thread preprocess time: 8.118 s
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: Percentage time preprocessing: 31.09%
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: Effective parallelization: 2.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 1.40 sec, max 1.83 sec, min 0.98 sec)
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 1.15 sec, max 1.54 sec, min 0.76 sec)
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 0.96 sec, max 1.22 sec, min 0.54 sec)
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.51 sec, max 0.85 sec, min 0.27 sec)
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    2 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.08-13.28.12:073][919]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 22.12% of total time (compiled    6 times, average 0.96 sec, max 1.22 sec, min 0.54 sec)
+[2026.01.08-13.28.12:074][919]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.43% of total time (compiled    9 times, average 0.51 sec, max 0.85 sec, min 0.27 sec)
+[2026.01.08-13.28.12:074][919]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.64% of total time (compiled    9 times, average 0.37 sec, max 0.65 sec, min 0.18 sec)
+[2026.01.08-13.28.12:074][919]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.22% of total time (compiled    9 times, average 0.33 sec, max 0.60 sec, min 0.17 sec)
+[2026.01.08-13.28.12:074][919]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.08% of total time (compiled    9 times, average 0.32 sec, max 0.57 sec, min 0.16 sec)
+[2026.01.08-13.28.12:074][919]LogShaderCompilers: Display: === Material stats ===
+[2026.01.08-13.28.12:074][919]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.08-13.28.12:074][919]LogShaderCompilers: Display: Materials Translated:    188
+[2026.01.08-13.28.12:074][919]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2026.01.08-13.28.12:074][919]LogShaderCompilers: Display: Material Translation Only: 0.04 s (40%)
+[2026.01.08-13.28.12:074][919]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.01.08-13.28.12:074][919]LogShaderCompilers: Display: Material Cache Hits: 19 (10%)
+[2026.01.08-13.28.12:074][919]LogShaderCompilers: Display: ================================================
+[2026.01.08-13.28.28:529][100]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5428.411621
+[2026.01.08-13.28.28:658][109]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-13.28.28:658][109]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5428.526367, Update Interval: 331.886963
+[2026.01.08-13.29.37:924][849]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.08-13.30.21:567][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.01.08-13.30.21:606][606]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/T5/GB60ZXUCP9YVQE7LM6YFM9_Auto7
+[2026.01.08-13.30.21:606][606]LogSavePackage: Moving 'H:/Documents/GitHub/GroupB3DModels/GasStation/Saved/GB60ZXUCP9YVQE7LM6YFM9_Auto7495CAAAF415146CA71688D9915EC08C3.tmp' to 'H:/Documents/GitHub/GroupB3DModels/GasStation/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/T5/GB60ZXUCP9YVQE7LM6YFM9_Auto7.uasset'
+[2026.01.08-13.30.21:624][606]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/64/2YO6Y9Q2PQA0O3S2NORK6V_Auto7
+[2026.01.08-13.30.21:624][606]LogSavePackage: Moving 'H:/Documents/GitHub/GroupB3DModels/GasStation/Saved/2YO6Y9Q2PQA0O3S2NORK6V_Auto7D71A41E1476718C81277CA83DADF281F.tmp' to 'H:/Documents/GitHub/GroupB3DModels/GasStation/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/64/2YO6Y9Q2PQA0O3S2NORK6V_Auto7.uasset'
+[2026.01.08-13.30.21:645][606]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/NX/5MZYVSSFWUWLWED5TTU6O0_Auto7
+[2026.01.08-13.30.21:645][606]LogSavePackage: Moving 'H:/Documents/GitHub/GroupB3DModels/GasStation/Saved/5MZYVSSFWUWLWED5TTU6O0_Auto7E27685D74A473715A00DAF9F1A80815E.tmp' to 'H:/Documents/GitHub/GroupB3DModels/GasStation/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/NX/5MZYVSSFWUWLWED5TTU6O0_Auto7.uasset'
+[2026.01.08-13.30.21:664][606]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/0T/LPRM78TZCN3BQ93D3ETAMB_Auto7
+[2026.01.08-13.30.21:664][606]LogSavePackage: Moving 'H:/Documents/GitHub/GroupB3DModels/GasStation/Saved/LPRM78TZCN3BQ93D3ETAMB_Auto782F0C5924DF1725BDA7A40B31D8D0FD8.tmp' to 'H:/Documents/GitHub/GroupB3DModels/GasStation/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/0T/LPRM78TZCN3BQ93D3ETAMB_Auto7.uasset'
+[2026.01.08-13.30.21:671][606]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.116
+[2026.01.08-13.30.21:671][606]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.116
+[2026.01.08-13.30.21:672][606]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Export_Art/Environment/Props/Manhole] ([1] browsable assets)...
+[2026.01.08-13.30.21:707][606]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Export_Art/Environment/Props/Manhole.Manhole]
+[2026.01.08-13.30.21:707][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Export_Art/Environment/Props/Manhole]
+[2026.01.08-13.30.21:804][606]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Export_Art/Environment/Props/Manhole_Auto7
+[2026.01.08-13.30.21:804][606]LogSavePackage: Moving 'H:/Documents/GitHub/GroupB3DModels/GasStation/Saved/Manhole_Auto75E2295A14A5DCCE9279C5FA1E33E293E.tmp' to 'H:/Documents/GitHub/GroupB3DModels/GasStation/Saved/Autosaves/Game/Models/Export_Art/Environment/Props/Manhole_Auto7.uasset'
+[2026.01.08-13.30.21:812][606]LogFileHelpers: Auto-saving content packages took 0.141
+[2026.01.08-13.33.48:906][329]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for H:/Documents/GitHub/GroupB3DModels/GasStation/Content/Models/Export_Art, because GetFilenameOnDisk returned non-matching filename '//vfiler1.lec-admin.dmu.ac.uk/Home3/P2640523/Documents/GitHub/GroupB3DModels/GasStation/Content/Models/Export_Art'.
+[2026.01.08-13.34.17:205][178]LogStreaming: Display: FlushAsyncLoading(1034): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.08-13.34.17:214][178]LogStaticMesh: Display: Building static mesh CeilingFan (Required Memory Estimate: 8.276611 MB)...
+[2026.01.08-13.34.17:231][178]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/Export_Art/Motel/Interior/CeilingFan) ...
+[2026.01.08-13.34.17:242][178]LogStaticMesh: Adjacency [0.00s], tris: 5114, UVs 1
+[2026.01.08-13.34.17:251][178]LogStaticMesh: Clustering [0.01s]. Ratio: 1.025000
+[2026.01.08-13.34.17:252][178]LogStaticMesh: Leaves [0.00s]
+[2026.01.08-13.34.17:405][178]LogStaticMesh: Reduce [0.15s]
+[2026.01.08-13.34.17:469][178]LogStaticMesh: Fallback [0.06s], num tris: 910
+[2026.01.08-13.34.17:475][178]LogStaticMesh: ConstrainClusters:
+[2026.01.08-13.34.17:475][178]LogStaticMesh:   Input: 85 Clusters, 10654 Triangles and 20247 Vertices
+[2026.01.08-13.34.17:475][178]LogStaticMesh:   Output without splits: 85 Clusters, 10654 Triangles and 20247 Vertices
+[2026.01.08-13.34.17:475][178]LogStaticMesh:   Output with splits: 109 Clusters, 10654 Triangles and 20273 Vertices
+[2026.01.08-13.34.17:475][178]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 109, Slow Path Clusters: 0, 1 Material: 109, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.08-13.34.17:479][178]LogStaticMesh: WritePages:
+[2026.01.08-13.34.17:479][178]LogStaticMesh:   Root: GPU size: 30836 bytes. 1 Pages. 30836.000 bytes per page (94.104% utilization).
+[2026.01.08-13.34.17:479][178]LogStaticMesh:   Streaming: GPU size: 199616 bytes. 2 Pages (2 with relative encoding). 99808.000 bytes per page (76.147% utilization).
+[2026.01.08-13.34.17:479][178]LogStaticMesh:   Page data disk size: 220580 bytes. Fixup data size: 688 bytes.
+[2026.01.08-13.34.17:479][178]LogStaticMesh:   Total GPU size: 230452 bytes, Total disk size: 221268 bytes.
+[2026.01.08-13.34.17:479][178]LogStaticMesh: Encode [0.01s]
+[2026.01.08-13.34.17:479][178]LogStaticMesh: Nanite build [0.24s]
+
+[2026.01.08-13.34.17:482][178]LogStaticMesh: Built static mesh [0.27s] /Game/Models/Export_Art/Motel/Interior/CeilingFan.CeilingFan
+[2026.01.08-13.34.46:743][102]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5806.609375
+[2026.01.08-13.34.46:861][110]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-13.34.46:861][110]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5806.712402, Update Interval: 324.851837
+[2026.01.08-13.35.26:850][813]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.08-13.35.26:877][813]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.01.08-13.35.26:877][813]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.01.08-13.35.27:031][813]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 144.192 ms (total: 543.449 ms)
+[2026.01.08-13.35.27:031][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.08-13.35.27:031][813]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.01.08-13.35.27:056][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034684s)
+[2026.01.08-13.35.27:056][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.034715s)
+[2026.01.08-13.35.27:066][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.01.08-13.35.27:070][813]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.01.08-13.35.27:071][813]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.08-13.35.27:071][813]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.08-13.35.27:071][813]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.08-13.35.27:072][813]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.08-13.35.27:084][813]LogWorldPartition: Display: WorldPartition initialize took 12.117 ms (total: 3.10 sec)
+[2026.01.08-13.35.27:084][813]LogPlayLevel: PIE: World Init took: (0.014022s)
+[2026.01.08-13.35.27:085][813]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.01.08-13.35.27:085][813]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.08-13.35.27:085][813]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.08-13.35.27:085][813]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.08-13.35.27:085][813]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.08-13.35.27:085][813]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.01.08-13.35.27:085][813]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.08-13.35.27:085][813]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.01.08-13.35.27:085][813]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.08-13.35.27:085][813]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.08-13.35.27:085][813]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.08-13.35.27:085][813]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.08-13.35.27:087][813]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.08-13.35.27:121][813]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.01.08-13.35.27:122][813]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.08-13.35.27:122][813]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.08-13.35.27:122][813]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.08-13.35.27:122][813]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.01.08-13.35.27:122][813]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.01.08-13.35.27:125][813]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.01.08-13.35.27:125][813]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.01.08-13.35.27:125][813]LogInit: FAudioDevice initialized with ID 5.
+[2026.01.08-13.35.27:125][813]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2026.01.08-13.35.27:125][813]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.01.08-13.35.27:128][813]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.08-13.35.27:156][813]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.01.08-13.35.27
+[2026.01.08-13.35.27:156][813]LogWorld: Bringing up level for play took: 0.024249
+[2026.01.08-13.35.27:158][813]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2026.01.08-13.35.27:163][813]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=10401.085 Y=19215.748 Z=83.317] for [BP_ThirdPersonCharacter_C]
+[2026.01.08-13.35.27:163][813]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw -7.075010 Roll 0.000000
+Translation: 10401.084943 19215.747845 83.316762
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.01.08-13.35.27:165][813]PIE: Server logged in
+[2026.01.08-13.35.27:166][813]PIE: Play in editor total start time 0.288 seconds.
+[2026.01.08-13.35.27:167][813]PIE: Warning: Mobility of /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C7BEF43C45D7BB202_1287777212 : StaticMeshComponent0 has to be 'Movable' if you'd like to move it with RotatingMovementComponent. 
+[2026.01.08-13.35.30:772][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-13.35.30:772][109]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.01.08-13.35.30:772][109]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.08-13.35.30:781][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-13.35.30:781][109]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.01.08-13.35.30:784][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.08-13.35.30:786][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-13.35.30:795][109]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.08-13.35.30:795][109]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.01.08-13.35.30:795][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2026.01.08-13.35.30:797][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2026.01.08-13.35.30:805][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-13.35.30:810][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.01.08-13.35.30:993][110]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2026.01.08-13.35.34:037][334]LogSlate: Window 'Message Log' being destroyed
+[2026.01.08-13.35.34:071][334]LogSlate: Window 'Message Log' being destroyed
+[2026.01.08-13.35.46:096][154]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.08-13.35.46:125][154]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.01.08-13.35.46:125][154]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.01.08-13.35.46:299][154]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 162.283 ms (total: 705.732 ms)
+[2026.01.08-13.35.46:299][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.08-13.35.46:299][154]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.01.08-13.35.46:322][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033970s)
+[2026.01.08-13.35.46:322][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.033998s)
+[2026.01.08-13.35.46:329][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.08-13.35.46:330][154]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.01.08-13.35.46:333][154]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.08-13.35.46:333][154]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.08-13.35.46:333][154]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.08-13.35.46:333][154]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.08-13.35.46:345][154]LogWorldPartition: Display: WorldPartition initialize took 12.567 ms (total: 3.12 sec)
+[2026.01.08-13.35.46:345][154]LogPlayLevel: PIE: World Init took: (0.014125s)
+[2026.01.08-13.35.46:345][154]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.01.08-13.35.46:345][154]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.08-13.35.46:345][154]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.08-13.35.46:345][154]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.08-13.35.46:345][154]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.08-13.35.46:345][154]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.01.08-13.35.46:345][154]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.08-13.35.46:345][154]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.01.08-13.35.46:345][154]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.08-13.35.46:345][154]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.08-13.35.46:345][154]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.08-13.35.46:345][154]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.08-13.35.46:347][154]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.08-13.35.46:379][154]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.01.08-13.35.46:379][154]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.08-13.35.46:379][154]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.08-13.35.46:379][154]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.08-13.35.46:380][154]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.01.08-13.35.46:380][154]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.01.08-13.35.46:382][154]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.01.08-13.35.46:382][154]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.01.08-13.35.46:382][154]LogInit: FAudioDevice initialized with ID 6.
+[2026.01.08-13.35.46:382][154]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonMap'.
+[2026.01.08-13.35.46:382][154]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.01.08-13.35.46:385][154]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.08-13.35.46:410][154]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.01.08-13.35.46
+[2026.01.08-13.35.46:411][154]LogWorld: Bringing up level for play took: 0.024367
+[2026.01.08-13.35.46:414][154]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2026.01.08-13.35.46:418][154]PIE: Server logged in
+[2026.01.08-13.35.46:419][154]PIE: Play in editor total start time 0.293 seconds.
+[2026.01.08-13.35.46:420][154]PIE: Warning: Mobility of /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C7BEF43C45D7BB202_1287777212 : StaticMeshComponent0 has to be 'Movable' if you'd like to move it with RotatingMovementComponent. 
+[2026.01.08-13.35.57:372][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-13.35.57:372][879]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.01.08-13.35.57:373][879]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.08-13.35.57:382][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-13.35.57:382][879]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.01.08-13.35.57:386][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.08-13.35.57:387][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-13.35.57:396][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-13.35.57:398][879]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.01.08-13.35.57:398][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2026.01.08-13.35.57:400][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2026.01.08-13.35.57:410][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.01.08-13.35.57:592][880]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2026.01.08-13.35.59:729][ 11]LogSlate: Window 'Message Log' being destroyed
+[2026.01.08-13.35.59:770][ 11]LogSlate: Window 'Message Log' being destroyed
