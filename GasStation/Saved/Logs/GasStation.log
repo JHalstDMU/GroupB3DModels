@@ -1632,3 +1632,1565 @@ FPackageName: Skipped package /Game/Models/Layout/SM_GasStationFloor has a valid
 [2026.01.19-18.03.12:477][630]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.19-18.03.12:477][630]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3619.407959, Update Interval: 341.027863
 [2026.01.19-18.04.20:673][835]LogDerivedDataCache: C:/Users/Halst/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.19-18.09.17:586][446]Cmd: DELETE
+[2026.01.19-18.09.17:586][446]Cmd: ACTOR DELETE
+[2026.01.19-18.09.17:612][446]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.09.17:638][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.01.19-18.09.17:641][446]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2026.01.19-18.09.24:949][842]LogStreaming: Display: FlushAsyncLoading(1347): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.09.24:952][842]LogStaticMesh: Display: Building static mesh Cactus2 (Required Memory Estimate: 2.298904 MB)...
+[2026.01.19-18.09.24:959][842]LogStaticMesh: Adjacency [0.00s], tris: 1480, UVs 1
+[2026.01.19-18.09.24:963][842]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.09.24:964][842]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.09.25:004][842]LogStaticMesh: Reduce [0.04s]
+[2026.01.19-18.09.25:025][842]LogStaticMesh: Fallback [0.02s], num tris: 802
+[2026.01.19-18.09.25:026][842]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.09.25:026][842]LogStaticMesh:   Input: 24 Clusters, 2992 Triangles and 2860 Vertices
+[2026.01.19-18.09.25:026][842]LogStaticMesh:   Output without splits: 24 Clusters, 2992 Triangles and 2905 Vertices
+[2026.01.19-18.09.25:026][842]LogStaticMesh:   Output with splits: 24 Clusters, 2992 Triangles and 2905 Vertices
+[2026.01.19-18.09.25:026][842]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 24, Slow Path Clusters: 0, 1 Material: 24, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.09.25:027][842]LogStaticMesh: WritePages:
+[2026.01.19-18.09.25:027][842]LogStaticMesh:   Root: GPU size: 32164 bytes. 1 Pages. 32164.000 bytes per page (98.157% utilization).
+[2026.01.19-18.09.25:027][842]LogStaticMesh:   Streaming: GPU size: 4436 bytes. 1 Pages (1 with relative encoding). 4436.000 bytes per page (3.384% utilization).
+[2026.01.19-18.09.25:027][842]LogStaticMesh:   Page data disk size: 33392 bytes. Fixup data size: 240 bytes.
+[2026.01.19-18.09.25:027][842]LogStaticMesh:   Total GPU size: 36600 bytes, Total disk size: 33632 bytes.
+[2026.01.19-18.09.25:027][842]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.09.25:027][842]LogStaticMesh: Nanite build [0.07s]
+
+[2026.01.19-18.09.25:030][842]LogStaticMesh: Built static mesh [0.08s] /Game/Models/Export_Art/Environment/Foliage/Cactus2.Cactus2
+[2026.01.19-18.09.25:106][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Export_Art/Environment/Foliage/Cactus2.Cactus2
+[2026.01.19-18.09.25:106][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Export_Art/Environment/Foliage/Cactus2.Cactus2
+[2026.01.19-18.09.25:107][844]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Export_Art/Environment/Foliage/Cactus2.Cactus2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_1
+[2026.01.19-18.09.25:463][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.01.19-18.09.25:469][857]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.01.19-18.09.25:475][857]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Export_Art/Environment/Foliage/Cactus2.Cactus2
+[2026.01.19-18.09.25:475][857]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Export_Art/Environment/Foliage/Cactus2.Cactus2
+[2026.01.19-18.09.25:479][857]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Export_Art/Environment/Foliage/Cactus2.Cactus2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7454B697E3B602_1432403640
+[2026.01.19-18.09.28:379][ 20]Cmd: DELETE
+[2026.01.19-18.09.28:379][ 20]Cmd: ACTOR DELETE
+[2026.01.19-18.09.28:400][ 20]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.09.28:419][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.01.19-18.09.28:421][ 20]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.01.19-18.09.30:658][133]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Export_Art/Environment/Foliage/AgaveCactus1.AgaveCactus1
+[2026.01.19-18.09.30:658][133]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Export_Art/Environment/Foliage/AgaveCactus1.AgaveCactus1
+[2026.01.19-18.09.30:659][133]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Export_Art/Environment/Foliage/AgaveCactus1.AgaveCactus1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_2
+[2026.01.19-18.09.30:905][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.09.30:908][145]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.01.19-18.09.30:915][145]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Export_Art/Environment/Foliage/AgaveCactus1.AgaveCactus1
+[2026.01.19-18.09.30:915][145]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Export_Art/Environment/Foliage/AgaveCactus1.AgaveCactus1
+[2026.01.19-18.09.30:918][145]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Export_Art/Environment/Foliage/AgaveCactus1.AgaveCactus1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7454B697E3B602_1437843641
+[2026.01.19-18.09.31:302][160]Cmd: DELETE
+[2026.01.19-18.09.31:302][160]Cmd: ACTOR DELETE
+[2026.01.19-18.09.31:322][160]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.09.31:342][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.09.31:344][160]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.01.19-18.09.35:789][390]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4003.048096
+[2026.01.19-18.09.35:962][403]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-18.09.35:962][403]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4003.205811, Update Interval: 334.228943
+[2026.01.19-18.09.40:406][707]Cmd: DELETE
+[2026.01.19-18.09.40:406][707]Cmd: ACTOR DELETE
+[2026.01.19-18.09.40:425][707]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.09.40:445][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.09.40:449][707]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2026.01.19-18.09.40:923][727]Cmd: DELETE
+[2026.01.19-18.09.40:923][727]Cmd: ACTOR DELETE
+[2026.01.19-18.09.40:946][727]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.09.40:967][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.19-18.09.40:971][727]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2026.01.19-18.09.41:484][751]Cmd: DELETE
+[2026.01.19-18.09.41:484][751]Cmd: ACTOR DELETE
+[2026.01.19-18.09.41:503][751]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.09.41:523][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.01.19-18.09.41:528][751]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2026.01.19-18.09.42:383][789]Cmd: DELETE
+[2026.01.19-18.09.42:384][789]Cmd: ACTOR DELETE
+[2026.01.19-18.09.42:407][789]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.09.42:429][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.01.19-18.09.42:434][789]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2026.01.19-18.10.20:782][213]LogStreaming: Display: FlushAsyncLoading(1348): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.10.20:793][213]LogStaticMesh: Display: Building static mesh Cube_001 (Required Memory Estimate: 23.570373 MB)...
+[2026.01.19-18.10.20:814][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.01.19-18.10.20:864][213]LogStaticMesh: Adjacency [0.00s], tris: 15358, UVs 1
+[2026.01.19-18.10.20:873][213]LogStaticMesh: Clustering [0.01s]. Ratio: 1.016667
+[2026.01.19-18.10.20:874][213]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.10.21:127][213]LogStaticMesh: Reduce [0.25s]
+[2026.01.19-18.10.21:151][213]LogStaticMesh: Fallback [0.02s], num tris: 314
+[2026.01.19-18.10.21:153][213]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.10.21:153][213]LogStaticMesh:   Input: 247 Clusters, 31104 Triangles and 23618 Vertices
+[2026.01.19-18.10.21:153][213]LogStaticMesh:   Output without splits: 247 Clusters, 31104 Triangles and 23901 Vertices
+[2026.01.19-18.10.21:153][213]LogStaticMesh:   Output with splits: 247 Clusters, 31104 Triangles and 23901 Vertices
+[2026.01.19-18.10.21:154][213]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 247, Slow Path Clusters: 0, 1 Material: 247, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.10.21:157][213]LogStaticMesh: WritePages:
+[2026.01.19-18.10.21:157][213]LogStaticMesh:   Root: GPU size: 32288 bytes. 1 Pages. 32288.000 bytes per page (98.535% utilization).
+[2026.01.19-18.10.21:157][213]LogStaticMesh:   Streaming: GPU size: 261188 bytes. 3 Pages (3 with relative encoding). 87062.664 bytes per page (66.424% utilization).
+[2026.01.19-18.10.21:157][213]LogStaticMesh:   Page data disk size: 238316 bytes. Fixup data size: 1248 bytes.
+[2026.01.19-18.10.21:157][213]LogStaticMesh:   Total GPU size: 293476 bytes, Total disk size: 239564 bytes.
+[2026.01.19-18.10.21:157][213]LogStaticMesh: Encode [0.01s]
+[2026.01.19-18.10.21:157][213]LogStaticMesh: Nanite build [0.29s]
+
+[2026.01.19-18.10.21:160][213]LogStaticMesh: Built static mesh [0.37s] /Game/Models/Export_Art/Environment/Props/Cube_001.Cube_001
+[2026.01.19-18.10.22:150][213]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.10.22:209][213]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Export_Art/Environment/Props/Cube_001.Cube_001
+	Asset Type: StaticMesh
+[2026.01.19-18.10.22:923][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.19-18.10.22:946][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.01.19-18.10.22:968][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.01.19-18.10.24:765][318]LogStreaming: Display: FlushAsyncLoading(1349): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.10.24:766][318]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Models/Export_Art/Environment/Props/Sphere_000 (0x20B4DEE5AC4351AE) /Game/Models/Export_Art/Environment/Props/Sphere_000 (0x20B4DEE5AC4351AE) - Skipping non mounted imported package /Game/Models/Export_Art/Environment/Props/Material_004 (0x6B33FFE291C99CF4)
+[2026.01.19-18.10.24:785][318]LogStaticMesh: Display: Building static mesh Sphere_000 (Required Memory Estimate: 7.624827 MB)...
+[2026.01.19-18.10.24:803][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.01.19-18.10.24:806][318]LogStaticMesh: Adjacency [0.00s], tris: 4224, UVs 2
+[2026.01.19-18.10.24:811][318]LogStaticMesh: Clustering [0.01s]. Ratio: 1.030303
+[2026.01.19-18.10.24:812][318]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.10.24:953][318]LogStaticMesh: Reduce [0.14s]
+[2026.01.19-18.10.25:009][318]LogStaticMesh: Fallback [0.06s], num tris: 880
+[2026.01.19-18.10.25:011][318]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.10.25:011][318]LogStaticMesh:   Input: 72 Clusters, 9012 Triangles and 8302 Vertices
+[2026.01.19-18.10.25:011][318]LogStaticMesh:   Output without splits: 72 Clusters, 9012 Triangles and 8458 Vertices
+[2026.01.19-18.10.25:011][318]LogStaticMesh:   Output with splits: 72 Clusters, 9012 Triangles and 8458 Vertices
+[2026.01.19-18.10.25:011][318]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 72, Slow Path Clusters: 0, 1 Material: 44, 2 Materials: 28, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.10.25:013][318]LogStaticMesh: WritePages:
+[2026.01.19-18.10.25:013][318]LogStaticMesh:   Root: GPU size: 31048 bytes. 1 Pages. 31048.000 bytes per page (94.751% utilization).
+[2026.01.19-18.10.25:013][318]LogStaticMesh:   Streaming: GPU size: 97172 bytes. 1 Pages (1 with relative encoding). 97172.000 bytes per page (74.136% utilization).
+[2026.01.19-18.10.25:013][318]LogStaticMesh:   Page data disk size: 105468 bytes. Fixup data size: 288 bytes.
+[2026.01.19-18.10.25:013][318]LogStaticMesh:   Total GPU size: 128220 bytes, Total disk size: 105756 bytes.
+[2026.01.19-18.10.25:013][318]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.10.25:013][318]LogStaticMesh: Nanite build [0.21s]
+
+[2026.01.19-18.10.25:017][318]LogStaticMesh: Built static mesh [0.23s] /Game/Models/Export_Art/Environment/Props/Sphere_000.Sphere_000
+[2026.01.19-18.10.25:792][318]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.10.25:853][318]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Export_Art/Environment/Props/Sphere_000.Sphere_000
+	Asset Type: StaticMesh
+[2026.01.19-18.10.26:463][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.19-18.10.26:486][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.01.19-18.10.26:508][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.01.19-18.10.26:595][318]LogPackageName: Warning: GetLocalFullPath called on FPackagePath C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Content/Models/Export_Art/Environment/Props/Material_004 which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2026.01.19-18.10.26:595][318]LoadErrors: Warning: While trying to load package /Game/Models/Export_Art/Environment/Props/Sphere_000, a dependent package /Game/Models/Export_Art/Environment/Props/Material_004 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Models/Export_Art/Environment/Props/Material_004 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Content/Models/Export_Art/Environment/Props/Material_004.uasset'. Perhaps it has been deleted or was not synced?
+
+[2026.01.19-18.10.27:164][349]LogStreaming: Display: FlushAsyncLoading(1350): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.10.27:164][349]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Models/Export_Art/Environment/Props/Sphere_001 (0xAA427DF639127885) /Game/Models/Export_Art/Environment/Props/Sphere_001 (0xAA427DF639127885) - Skipping non mounted imported package /Game/Models/Export_Art/Environment/Props/Material_004 (0x6B33FFE291C99CF4)
+[2026.01.19-18.10.27:166][349]LogStaticMesh: Display: Building static mesh Sphere_001 (Required Memory Estimate: 7.624827 MB)...
+[2026.01.19-18.10.27:186][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.01.19-18.10.27:189][349]LogStaticMesh: Adjacency [0.00s], tris: 4224, UVs 2
+[2026.01.19-18.10.27:194][349]LogStaticMesh: Clustering [0.01s]. Ratio: 1.030303
+[2026.01.19-18.10.27:195][349]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.10.27:332][349]LogStaticMesh: Reduce [0.14s]
+[2026.01.19-18.10.27:385][349]LogStaticMesh: Fallback [0.05s], num tris: 914
+[2026.01.19-18.10.27:386][349]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.10.27:386][349]LogStaticMesh:   Input: 72 Clusters, 9010 Triangles and 8363 Vertices
+[2026.01.19-18.10.27:386][349]LogStaticMesh:   Output without splits: 72 Clusters, 9010 Triangles and 8522 Vertices
+[2026.01.19-18.10.27:386][349]LogStaticMesh:   Output with splits: 72 Clusters, 9010 Triangles and 8522 Vertices
+[2026.01.19-18.10.27:387][349]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 72, Slow Path Clusters: 0, 1 Material: 44, 2 Materials: 28, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.10.27:388][349]LogStaticMesh: WritePages:
+[2026.01.19-18.10.27:388][349]LogStaticMesh:   Root: GPU size: 30876 bytes. 1 Pages. 30876.000 bytes per page (94.226% utilization).
+[2026.01.19-18.10.27:388][349]LogStaticMesh:   Streaming: GPU size: 98232 bytes. 1 Pages (1 with relative encoding). 98232.000 bytes per page (74.945% utilization).
+[2026.01.19-18.10.27:388][349]LogStaticMesh:   Page data disk size: 105536 bytes. Fixup data size: 288 bytes.
+[2026.01.19-18.10.27:388][349]LogStaticMesh:   Total GPU size: 129108 bytes, Total disk size: 105824 bytes.
+[2026.01.19-18.10.27:388][349]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.10.27:388][349]LogStaticMesh: Nanite build [0.20s]
+
+[2026.01.19-18.10.27:394][349]LogStaticMesh: Built static mesh [0.23s] /Game/Models/Export_Art/Environment/Props/Sphere_001.Sphere_001
+[2026.01.19-18.10.28:452][349]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.10.28:511][349]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Export_Art/Environment/Props/Sphere_001.Sphere_001
+	Asset Type: StaticMesh
+[2026.01.19-18.10.29:113][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.19-18.10.29:135][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.10.29:156][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.01.19-18.10.29:233][349]LogPackageName: Warning: GetLocalFullPath called on FPackagePath C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Content/Models/Export_Art/Environment/Props/Material_004 which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2026.01.19-18.10.29:234][349]LoadErrors: Warning: While trying to load package /Game/Models/Export_Art/Environment/Props/Sphere_001, a dependent package /Game/Models/Export_Art/Environment/Props/Material_004 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Models/Export_Art/Environment/Props/Material_004 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Content/Models/Export_Art/Environment/Props/Material_004.uasset'. Perhaps it has been deleted or was not synced?
+
+[2026.01.19-18.10.30:096][400]LogStreaming: Display: FlushAsyncLoading(1351): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.10.30:107][400]LogStaticMesh: Display: Building static mesh StreetLamp (Required Memory Estimate: 0.026703 MB)...
+[2026.01.19-18.10.30:108][400]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.10.30:108][400]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.10.30:108][400]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.10.30:108][400]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.10.30:108][400]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.10.30:108][400]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.10.30:108][400]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.10.30:108][400]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.10.30:108][400]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.10.30:108][400]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.10.30:108][400]LogStaticMesh: WritePages:
+[2026.01.19-18.10.30:108][400]LogStaticMesh:   Root: GPU size: 324 bytes. 1 Pages. 324.000 bytes per page (0.989% utilization).
+[2026.01.19-18.10.30:108][400]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.10.30:108][400]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.10.30:108][400]LogStaticMesh:   Total GPU size: 324 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.10.30:108][400]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.10.30:108][400]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.10.30:109][400]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/Environment/Props/StreetLamp.StreetLamp
+[2026.01.19-18.10.30:127][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.01.19-18.10.31:233][400]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.10.31:293][400]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Export_Art/Environment/Props/StreetLamp.StreetLamp
+	Asset Type: StaticMesh
+[2026.01.19-18.10.31:905][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.01.19-18.10.31:929][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.01.19-18.10.31:949][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.01.19-18.10.32:592][436]LogStreaming: Display: FlushAsyncLoading(1352): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.10.32:611][436]LogStaticMesh: Display: Building static mesh TarfficLight (Required Memory Estimate: 0.026703 MB)...
+[2026.01.19-18.10.32:612][436]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.10.32:612][436]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.10.32:612][436]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.10.32:612][436]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.10.32:612][436]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.10.32:612][436]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.10.32:612][436]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.10.32:612][436]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.10.32:612][436]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.10.32:612][436]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.10.32:612][436]LogStaticMesh: WritePages:
+[2026.01.19-18.10.32:612][436]LogStaticMesh:   Root: GPU size: 324 bytes. 1 Pages. 324.000 bytes per page (0.989% utilization).
+[2026.01.19-18.10.32:612][436]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.10.32:612][436]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.10.32:612][436]LogStaticMesh:   Total GPU size: 324 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.10.32:612][436]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.10.32:612][436]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.10.32:613][436]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/Environment/Props/TarfficLight.TarfficLight
+[2026.01.19-18.10.32:631][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.01.19-18.10.34:375][436]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.10.34:438][436]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Export_Art/Environment/Props/TarfficLight.TarfficLight
+	Asset Type: StaticMesh
+[2026.01.19-18.10.35:053][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.19-18.10.35:075][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.01.19-18.10.35:095][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.11.26:191][462]LogStreaming: Display: FlushAsyncLoading(1353): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.11.26:192][462]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Export_Art/GasStation/Props/FridgeItemsBoxPops.FridgeItemsBoxPops
+[2026.01.19-18.11.26:192][462]LogStaticMesh: Display: Building static mesh FridgeItemsBoxPops (Required Memory Estimate: 0.295721 MB)...
+[2026.01.19-18.11.26:194][462]LogStaticMesh: Adjacency [0.00s], tris: 188, UVs 1
+[2026.01.19-18.11.26:194][462]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.11.26:194][462]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.11.26:196][462]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.11.26:197][462]LogStaticMesh: Fallback [0.00s], num tris: 188
+[2026.01.19-18.11.26:197][462]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.11.26:197][462]LogStaticMesh:   Input: 3 Clusters, 314 Triangles and 212 Vertices
+[2026.01.19-18.11.26:197][462]LogStaticMesh:   Output without splits: 3 Clusters, 314 Triangles and 221 Vertices
+[2026.01.19-18.11.26:197][462]LogStaticMesh:   Output with splits: 3 Clusters, 314 Triangles and 221 Vertices
+[2026.01.19-18.11.26:197][462]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.11.26:197][462]LogStaticMesh: WritePages:
+[2026.01.19-18.11.26:197][462]LogStaticMesh:   Root: GPU size: 3064 bytes. 1 Pages. 3064.000 bytes per page (9.351% utilization).
+[2026.01.19-18.11.26:197][462]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.11.26:197][462]LogStaticMesh:   Page data disk size: 2736 bytes. Fixup data size: 40 bytes.
+[2026.01.19-18.11.26:197][462]LogStaticMesh:   Total GPU size: 3064 bytes, Total disk size: 2776 bytes.
+[2026.01.19-18.11.26:197][462]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.11.26:197][462]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.11.26:207][462]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Export_Art/GasStation/Props/FridgeItemsBoxPops.FridgeItemsBoxPops
+[2026.01.19-18.11.26:208][462]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/Export_Art/GasStation/Props/FridgeItemsBoxPops) ...
+[2026.01.19-18.11.26:308][462]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.01.19-18.11.30:635][604]LogSlate: Window 'FridgeItemsBoxPops' being destroyed
+[2026.01.19-18.11.30:642][604]LogSlate: Window 'FridgeItemsBoxPops' being destroyed
+[2026.01.19-18.11.30:701][604]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-18.11.30:701][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-18.11.30:751][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.01.19-18.11.33:251][755]LogStreaming: Display: FlushAsyncLoading(1359): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.11.33:252][755]LogStaticMesh: Display: Building static mesh GasPump (Required Memory Estimate: 0.02669 MB)...
+[2026.01.19-18.11.33:253][755]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.11.33:253][755]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.11.33:253][755]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.11.33:253][755]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.11.33:253][755]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.11.33:253][755]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.11.33:253][755]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.11.33:253][755]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.11.33:253][755]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.11.33:253][755]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.11.33:253][755]LogStaticMesh: WritePages:
+[2026.01.19-18.11.33:253][755]LogStaticMesh:   Root: GPU size: 324 bytes. 1 Pages. 324.000 bytes per page (0.989% utilization).
+[2026.01.19-18.11.33:253][755]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.11.33:253][755]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.11.33:253][755]LogStaticMesh:   Total GPU size: 324 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.11.33:253][755]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.11.33:253][755]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.11.33:254][755]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/GasStation/Props/GasPump.GasPump
+[2026.01.19-18.11.33:272][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.01.19-18.11.34:412][755]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.11.34:470][755]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Export_Art/GasStation/Props/GasPump.GasPump
+	Asset Type: StaticMesh
+[2026.01.19-18.11.35:108][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.01.19-18.11.35:132][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.01.19-18.11.35:153][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.19-18.11.35:840][795]LogStreaming: Display: FlushAsyncLoading(1360): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.11.35:841][795]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Export_Art/GasStation/Props/FridgeItems.FridgeItems
+[2026.01.19-18.11.35:842][795]LogStaticMesh: Display: Building static mesh FridgeItems (Required Memory Estimate: 0.610127 MB)...
+[2026.01.19-18.11.35:844][795]LogStaticMesh: Adjacency [0.00s], tris: 392, UVs 1
+[2026.01.19-18.11.35:845][795]LogStaticMesh: Clustering [0.00s]. Ratio: 1.500000
+[2026.01.19-18.11.35:845][795]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.11.35:854][795]LogStaticMesh: Reduce [0.01s]
+[2026.01.19-18.11.35:858][795]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/Export_Art/GasStation/Props/FridgeItems) ...
+[2026.01.19-18.11.35:859][795]LogStaticMesh: Fallback [0.00s], num tris: 258
+[2026.01.19-18.11.35:859][795]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.11.35:859][795]LogStaticMesh:   Input: 9 Clusters, 770 Triangles and 641 Vertices
+[2026.01.19-18.11.35:859][795]LogStaticMesh:   Output without splits: 9 Clusters, 770 Triangles and 641 Vertices
+[2026.01.19-18.11.35:859][795]LogStaticMesh:   Output with splits: 9 Clusters, 770 Triangles and 641 Vertices
+[2026.01.19-18.11.35:859][795]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 9, Slow Path Clusters: 0, 1 Material: 9, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.11.35:859][795]LogStaticMesh: WritePages:
+[2026.01.19-18.11.35:859][795]LogStaticMesh:   Root: GPU size: 8544 bytes. 1 Pages. 8544.000 bytes per page (26.074% utilization).
+[2026.01.19-18.11.35:859][795]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.11.35:859][795]LogStaticMesh:   Page data disk size: 7496 bytes. Fixup data size: 56 bytes.
+[2026.01.19-18.11.35:859][795]LogStaticMesh:   Total GPU size: 8544 bytes, Total disk size: 7552 bytes.
+[2026.01.19-18.11.35:859][795]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.11.35:859][795]LogStaticMesh: Nanite build [0.02s]
+
+[2026.01.19-18.11.35:870][795]LogStaticMesh: Built static mesh [0.03s] /Game/Models/Export_Art/GasStation/Props/FridgeItems.FridgeItems
+[2026.01.19-18.11.35:982][795]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.01.19-18.11.38:197][859]LogSlate: Window 'FridgeItems' being destroyed
+[2026.01.19-18.11.38:205][859]LogSlate: Window 'FridgeItems' being destroyed
+[2026.01.19-18.11.38:300][859]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-18.11.38:300][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-18.11.38:350][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.01.19-18.11.43:423][144]LogStreaming: Display: FlushAsyncLoading(1361): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.11.43:425][144]LogStaticMesh: Display: Building static mesh GasStationPriceList (Required Memory Estimate: 0.02669 MB)...
+[2026.01.19-18.11.43:426][144]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.11.43:426][144]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.11.43:426][144]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.11.43:426][144]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.11.43:426][144]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.11.43:426][144]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.11.43:426][144]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.11.43:426][144]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.11.43:426][144]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.11.43:426][144]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.11.43:426][144]LogStaticMesh: WritePages:
+[2026.01.19-18.11.43:426][144]LogStaticMesh:   Root: GPU size: 320 bytes. 1 Pages. 320.000 bytes per page (0.977% utilization).
+[2026.01.19-18.11.43:426][144]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.11.43:426][144]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.11.43:426][144]LogStaticMesh:   Total GPU size: 320 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.11.43:426][144]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.11.43:426][144]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.11.43:427][144]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/GasStation/Props/GasStationPriceList.GasStationPriceList
+[2026.01.19-18.11.43:445][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.01.19-18.11.44:783][144]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.11.44:850][144]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Export_Art/GasStation/Props/GasStationPriceList.GasStationPriceList
+	Asset Type: StaticMesh
+[2026.01.19-18.11.45:473][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.01.19-18.11.45:499][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.01.19-18.11.45:519][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.19-18.11.47:472][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.01.19-18.11.48:310][231]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.11.48:633][231]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Export_Art/GasStation/Props/GlassBottle.GlassBottle
+	Asset Type: StaticMesh
+[2026.01.19-18.11.49:266][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.01.19-18.11.49:289][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.01.19-18.11.49:309][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.12.08:136][284]LogStreaming: Display: FlushAsyncLoading(1362): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.12.08:138][284]LogStaticMesh: Display: Building static mesh PosteSmall (Required Memory Estimate: 0.02669 MB)...
+[2026.01.19-18.12.08:139][284]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.12.08:139][284]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.12.08:139][284]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.12.08:139][284]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.12.08:139][284]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.12.08:139][284]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.12.08:139][284]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.12.08:139][284]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.12.08:139][284]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.12.08:139][284]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.12.08:139][284]LogStaticMesh: WritePages:
+[2026.01.19-18.12.08:139][284]LogStaticMesh:   Root: GPU size: 308 bytes. 1 Pages. 308.000 bytes per page (0.940% utilization).
+[2026.01.19-18.12.08:139][284]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.12.08:139][284]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.12.08:139][284]LogStaticMesh:   Total GPU size: 308 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.12.08:139][284]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.12.08:139][284]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.12.08:140][284]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/GasStation/Props/PosteSmall.PosteSmall
+[2026.01.19-18.12.08:160][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.01.19-18.12.09:170][284]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.12.09:237][284]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Export_Art/GasStation/Props/PosteSmall.PosteSmall
+	Asset Type: StaticMesh
+[2026.01.19-18.12.09:887][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.19-18.12.09:911][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.19-18.12.09:930][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.12.10:513][315]LogStreaming: Display: FlushAsyncLoading(1363): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.12.10:515][315]LogStaticMesh: Display: Building static mesh PosterMed (Required Memory Estimate: 0.02669 MB)...
+[2026.01.19-18.12.10:516][315]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.12.10:516][315]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.12.10:516][315]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.12.10:516][315]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.12.10:516][315]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.12.10:516][315]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.12.10:516][315]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.12.10:516][315]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.12.10:516][315]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.12.10:517][315]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.12.10:517][315]LogStaticMesh: WritePages:
+[2026.01.19-18.12.10:517][315]LogStaticMesh:   Root: GPU size: 308 bytes. 1 Pages. 308.000 bytes per page (0.940% utilization).
+[2026.01.19-18.12.10:517][315]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.12.10:517][315]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.12.10:517][315]LogStaticMesh:   Total GPU size: 308 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.12.10:517][315]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.12.10:517][315]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.12.10:517][315]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/GasStation/Props/PosterMed.PosterMed
+[2026.01.19-18.12.10:535][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.01.19-18.12.11:313][315]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.12.11:380][315]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Export_Art/GasStation/Props/PosterMed.PosterMed
+	Asset Type: StaticMesh
+[2026.01.19-18.12.11:985][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.12.12:006][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.12.12:026][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.12.12:847][366]LogStreaming: Display: FlushAsyncLoading(1364): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.12.12:849][366]LogStaticMesh: Display: Building static mesh PosterBig (Required Memory Estimate: 0.02669 MB)...
+[2026.01.19-18.12.12:850][366]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.12.12:850][366]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.12.12:850][366]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.12.12:850][366]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.12.12:850][366]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.12.12:850][366]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.12.12:850][366]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.12.12:850][366]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.12.12:850][366]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.12.12:850][366]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.12.12:850][366]LogStaticMesh: WritePages:
+[2026.01.19-18.12.12:850][366]LogStaticMesh:   Root: GPU size: 312 bytes. 1 Pages. 312.000 bytes per page (0.952% utilization).
+[2026.01.19-18.12.12:850][366]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.12.12:850][366]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.12.12:850][366]LogStaticMesh:   Total GPU size: 312 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.12.12:850][366]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.12.12:850][366]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.12.12:851][366]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/GasStation/Props/PosterBig.PosterBig
+[2026.01.19-18.12.12:868][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.01.19-18.12.13:643][366]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.12.13:702][366]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Export_Art/GasStation/Props/PosterBig.PosterBig
+	Asset Type: StaticMesh
+[2026.01.19-18.12.14:323][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.01.19-18.12.14:345][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.12.14:364][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.01.19-18.12.14:537][370]LogShaderCompilers: Display: ================================================
+[2026.01.19-18.12.14:537][370]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.19-18.12.14:537][370]LogShaderCompilers: Display: Total job queries 450, among them cache hits 74 (16.44%), DDC hits 351 (78.00%), Duplicates 15 (3.33%)
+[2026.01.19-18.12.14:537][370]LogShaderCompilers: Display: Tracking 359 distinct input hashes that result in 289 distinct outputs (80.50%)
+[2026.01.19-18.12.14:537][370]LogShaderCompilers: Display: RAM used: 174.63 KiB of 1.60 GiB budget. Usage: 0.01%
+[2026.01.19-18.12.14:537][370]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.19-18.12.14:537][370]LogShaderCompilers: Display: Shaders Compiled: 8
+[2026.01.19-18.12.14:537][370]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2026.01.19-18.12.14:537][370]LogShaderCompilers: Display: Average time worker was idle: 2600.57 s
+[2026.01.19-18.12.14:537][370]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.09 s
+[2026.01.19-18.12.14:537][370]LogShaderCompilers: Display: Job execution time: average 2.54 s, max 3.55 s
+[2026.01.19-18.12.14:537][370]LogShaderCompilers: Display: Job life time (pending + execution): average 2.60 s, max 3.63
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display: Shader code size: average 6.412 KiB, min 4.133 KiB, max 7.676 KiB
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.41 s
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display: Average processing rate: 1.48 jobs/sec
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display: Total thread time: 2.999 s
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display: Total thread preprocess time: 8.227 s
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display: Percentage time preprocessing: 274.29%
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display: Effective parallelization: 0.55 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.50 sec, max 0.51 sec, min 0.50 sec)
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 0.37 sec, max 0.38 sec, min 0.36 sec)
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.31 sec, max 0.32 sec, min 0.30 sec)
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 33.58% of total time (compiled    2 times, average 0.50 sec, max 0.51 sec, min 0.50 sec)
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display:                                                 FLumenCardPS - 24.62% of total time (compiled    2 times, average 0.37 sec, max 0.38 sec, min 0.36 sec)
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.13% of total time (compiled    2 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display:                                                 FLumenCardVS - 20.67% of total time (compiled    2 times, average 0.31 sec, max 0.32 sec, min 0.30 sec)
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display:                                                  FHitProxyPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display: === Material stats ===
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display: Materials Translated:    207
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display: Material Translation Only: 0.06 s (60%)
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display: Material Cache Hits: 65 (31%)
+[2026.01.19-18.12.14:538][370]LogShaderCompilers: Display: ================================================
+[2026.01.19-18.12.17:033][514]LogStreaming: Display: FlushAsyncLoading(1365): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.12.17:035][514]LogStaticMesh: Display: Building static mesh ShelfItems (Required Memory Estimate: 0.02669 MB)...
+[2026.01.19-18.12.17:035][514]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.12.17:036][514]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.12.17:036][514]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.12.17:036][514]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.12.17:036][514]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.12.17:036][514]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.12.17:036][514]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.12.17:036][514]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.12.17:036][514]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.12.17:036][514]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.12.17:036][514]LogStaticMesh: WritePages:
+[2026.01.19-18.12.17:036][514]LogStaticMesh:   Root: GPU size: 320 bytes. 1 Pages. 320.000 bytes per page (0.977% utilization).
+[2026.01.19-18.12.17:036][514]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.12.17:036][514]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.12.17:036][514]LogStaticMesh:   Total GPU size: 320 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.12.17:036][514]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.12.17:036][514]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.12.17:037][514]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/GasStation/Props/ShelfItems.ShelfItems
+[2026.01.19-18.12.17:053][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.01.19-18.12.18:319][514]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.12.18:374][514]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Export_Art/GasStation/Props/ShelfItems.ShelfItems
+	Asset Type: StaticMesh
+[2026.01.19-18.12.18:994][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.19-18.12.19:017][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.01.19-18.12.19:037][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.12.45:559][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.01.19-18.12.45:564][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/2X/SGGM4J2NBHUCC3Y7KXGENX_Auto3
+[2026.01.19-18.12.45:565][833]LogSavePackage: Moving 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/SGGM4J2NBHUCC3Y7KXGENX_Auto32323D6B7438FB61DCBB49F92536A468C.tmp' to 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/2X/SGGM4J2NBHUCC3Y7KXGENX_Auto3.uasset'
+[2026.01.19-18.12.45:568][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/R6/GXL6JS2J2YO4NKPT2V0N36_Auto3
+[2026.01.19-18.12.45:569][833]LogSavePackage: Moving 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/GXL6JS2J2YO4NKPT2V0N36_Auto3AF25639343F34CB2E05A8F96FF884639.tmp' to 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/R6/GXL6JS2J2YO4NKPT2V0N36_Auto3.uasset'
+[2026.01.19-18.12.45:572][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/A7/Z7WNBH0V78ZE7JUT2FN0EA_Auto3
+[2026.01.19-18.12.45:572][833]LogSavePackage: Moving 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/Z7WNBH0V78ZE7JUT2FN0EA_Auto33B16377E45FA6C9E8C5CF5AFB7EDDD45.tmp' to 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/A7/Z7WNBH0V78ZE7JUT2FN0EA_Auto3.uasset'
+[2026.01.19-18.12.45:574][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/BH/MZKXKDF5WHG3J2I2LYPBH0_Auto3
+[2026.01.19-18.12.45:574][833]LogSavePackage: Moving 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/MZKXKDF5WHG3J2I2LYPBH0_Auto3F27751074F4F302B4A726C8A954275B3.tmp' to 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/BH/MZKXKDF5WHG3J2I2LYPBH0_Auto3.uasset'
+[2026.01.19-18.12.45:576][833]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.037
+[2026.01.19-18.12.45:576][833]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2026.01.19-18.12.47:516][889]LogStreaming: Display: FlushAsyncLoading(1366): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.12.47:518][889]LogStaticMesh: Display: Building static mesh SpilledOilPatches (Required Memory Estimate: 0.02669 MB)...
+[2026.01.19-18.12.47:519][889]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.12.47:519][889]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.12.47:519][889]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.12.47:519][889]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.12.47:519][889]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.12.47:519][889]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.12.47:520][889]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.12.47:520][889]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.12.47:520][889]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.12.47:520][889]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.12.47:520][889]LogStaticMesh: WritePages:
+[2026.01.19-18.12.47:520][889]LogStaticMesh:   Root: GPU size: 320 bytes. 1 Pages. 320.000 bytes per page (0.977% utilization).
+[2026.01.19-18.12.47:520][889]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.12.47:520][889]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.12.47:520][889]LogStaticMesh:   Total GPU size: 320 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.12.47:520][889]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.12.47:520][889]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.12.47:520][889]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/GasStation/Props/SpilledOilPatches.SpilledOilPatches
+[2026.01.19-18.12.47:538][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.01.19-18.12.48:504][889]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.12.48:592][889]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Export_Art/GasStation/Props/SpilledOilPatches.SpilledOilPatches
+	Asset Type: StaticMesh
+[2026.01.19-18.12.49:204][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.01.19-18.12.49:226][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.01.19-18.12.49:244][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.12.51:260][  4]LogStreaming: Display: FlushAsyncLoading(1367): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.12.51:262][  4]LogStaticMesh: Display: Building static mesh Trash (Required Memory Estimate: 0.02669 MB)...
+[2026.01.19-18.12.51:263][  4]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.12.51:263][  4]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.12.51:263][  4]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.12.51:263][  4]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.12.51:263][  4]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.12.51:263][  4]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.12.51:263][  4]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.12.51:263][  4]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.12.51:263][  4]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.12.51:263][  4]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.12.51:263][  4]LogStaticMesh: WritePages:
+[2026.01.19-18.12.51:263][  4]LogStaticMesh:   Root: GPU size: 316 bytes. 1 Pages. 316.000 bytes per page (0.964% utilization).
+[2026.01.19-18.12.51:263][  4]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.12.51:263][  4]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.12.51:263][  4]LogStaticMesh:   Total GPU size: 316 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.12.51:263][  4]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.12.51:263][  4]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.12.51:273][  4]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Export_Art/GasStation/Props/Trash.Trash
+[2026.01.19-18.12.51:281][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.01.19-18.12.52:504][  4]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.12.52:562][  4]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Export_Art/GasStation/Props/Trash.Trash
+	Asset Type: StaticMesh
+[2026.01.19-18.12.53:172][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.01.19-18.12.53:194][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.12.53:214][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.19-18.12.56:663][197]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.01.19-18.13.15:301][345]LogStreaming: Display: FlushAsyncLoading(1368): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.13.15:302][345]LogStaticMesh: Display: Building static mesh Sidewalk (Required Memory Estimate: 0.026703 MB)...
+[2026.01.19-18.13.15:303][345]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.13.15:303][345]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.13.15:303][345]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.13.15:303][345]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.13.15:303][345]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.13.15:303][345]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.13.15:303][345]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.13.15:303][345]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.13.15:303][345]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.13.15:303][345]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.13.15:303][345]LogStaticMesh: WritePages:
+[2026.01.19-18.13.15:303][345]LogStaticMesh:   Root: GPU size: 328 bytes. 1 Pages. 328.000 bytes per page (1.001% utilization).
+[2026.01.19-18.13.15:303][345]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.13.15:303][345]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.13.15:303][345]LogStaticMesh:   Total GPU size: 328 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.13.15:303][345]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.13.15:303][345]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.13.15:304][345]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/Motel/Exterior/Sidewalk.Sidewalk
+[2026.01.19-18.13.15:322][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.01.19-18.13.16:071][345]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.13.16:163][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.13.16:183][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.13.16:203][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.19-18.13.17:073][397]LogStreaming: Display: FlushAsyncLoading(1369): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.13.17:075][397]LogStaticMesh: Display: Building static mesh TelephonePoles (Required Memory Estimate: 0.026703 MB)...
+[2026.01.19-18.13.17:076][397]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.13.17:076][397]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.13.17:076][397]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.13.17:076][397]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.13.17:076][397]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.13.17:076][397]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.13.17:076][397]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.13.17:076][397]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.13.17:076][397]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.13.17:076][397]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.13.17:076][397]LogStaticMesh: WritePages:
+[2026.01.19-18.13.17:076][397]LogStaticMesh:   Root: GPU size: 328 bytes. 1 Pages. 328.000 bytes per page (1.001% utilization).
+[2026.01.19-18.13.17:076][397]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.13.17:076][397]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.13.17:076][397]LogStaticMesh:   Total GPU size: 328 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.13.17:076][397]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.13.17:076][397]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.13.17:077][397]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/Motel/Exterior/TelephonePoles.TelephonePoles
+[2026.01.19-18.13.17:094][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.01.19-18.13.17:866][397]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.13.17:957][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.01.19-18.13.17:976][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.19-18.13.17:996][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.13.20:432][561]LogStreaming: Display: FlushAsyncLoading(1370): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.13.20:434][561]LogStaticMesh: Display: Building static mesh Railing (Required Memory Estimate: 0.026703 MB)...
+[2026.01.19-18.13.20:435][561]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.13.20:435][561]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.13.20:435][561]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.13.20:435][561]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.13.20:435][561]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.13.20:435][561]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.13.20:435][561]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.13.20:435][561]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.13.20:435][561]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.13.20:435][561]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.13.20:435][561]LogStaticMesh: WritePages:
+[2026.01.19-18.13.20:435][561]LogStaticMesh:   Root: GPU size: 328 bytes. 1 Pages. 328.000 bytes per page (1.001% utilization).
+[2026.01.19-18.13.20:435][561]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.13.20:435][561]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.13.20:435][561]LogStaticMesh:   Total GPU size: 328 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.13.20:435][561]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.13.20:436][561]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.13.20:437][561]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/Motel/Exterior/Railing.Railing
+[2026.01.19-18.13.20:455][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.01.19-18.13.21:371][561]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.13.21:464][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.19-18.13.21:484][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.19-18.13.21:503][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.13.37:277][458]LogStreaming: Display: FlushAsyncLoading(1371): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.13.37:279][458]LogStaticMesh: Display: Building static mesh ToiletBrush (Required Memory Estimate: 0.026703 MB)...
+[2026.01.19-18.13.37:280][458]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.13.37:280][458]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.13.37:280][458]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.13.37:280][458]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.13.37:280][458]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.13.37:280][458]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.13.37:280][458]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.13.37:280][458]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.13.37:280][458]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.13.37:280][458]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.13.37:280][458]LogStaticMesh: WritePages:
+[2026.01.19-18.13.37:280][458]LogStaticMesh:   Root: GPU size: 328 bytes. 1 Pages. 328.000 bytes per page (1.001% utilization).
+[2026.01.19-18.13.37:281][458]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.13.37:281][458]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.13.37:281][458]LogStaticMesh:   Total GPU size: 328 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.13.37:281][458]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.13.37:281][458]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.13.37:281][458]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/Motel/Interior/ToiletBrush.ToiletBrush
+[2026.01.19-18.13.37:300][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.01.19-18.13.38:237][458]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.13.38:329][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.01.19-18.13.38:348][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.19-18.13.38:368][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.19-18.13.39:072][489]LogStreaming: Display: FlushAsyncLoading(1372): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.13.39:074][489]LogStaticMesh: Display: Building static mesh ToiletBrushHolder (Required Memory Estimate: 0.026703 MB)...
+[2026.01.19-18.13.39:074][489]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.13.39:074][489]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.13.39:074][489]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.13.39:075][489]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.13.39:075][489]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.13.39:075][489]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.13.39:075][489]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.13.39:075][489]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.13.39:075][489]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.13.39:075][489]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.13.39:075][489]LogStaticMesh: WritePages:
+[2026.01.19-18.13.39:075][489]LogStaticMesh:   Root: GPU size: 328 bytes. 1 Pages. 328.000 bytes per page (1.001% utilization).
+[2026.01.19-18.13.39:075][489]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.13.39:075][489]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.13.39:075][489]LogStaticMesh:   Total GPU size: 328 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.13.39:075][489]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.13.39:075][489]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.13.39:076][489]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/Motel/Interior/ToiletBrushHolder.ToiletBrushHolder
+[2026.01.19-18.13.39:092][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.01.19-18.13.40:338][489]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.13.40:428][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.01.19-18.13.40:449][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.01.19-18.13.40:467][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.19-18.13.42:339][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.01.19-18.13.46:839][581]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.13.47:174][581]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/Export_Art/Motel/Interior/RoomSafetySigns.RoomSafetySigns
+	Asset Type: StaticMesh
+[2026.01.19-18.13.47:825][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.01.19-18.13.47:850][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.01.19-18.13.47:868][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.01.19-18.13.51:293][765]LogStreaming: Display: FlushAsyncLoading(1373): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.13.51:295][765]LogStaticMesh: Display: Building static mesh StickyMat (Required Memory Estimate: 0.026703 MB)...
+[2026.01.19-18.13.51:296][765]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.13.51:296][765]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.13.51:296][765]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.13.51:296][765]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.13.51:296][765]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.13.51:296][765]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.13.51:296][765]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.13.51:296][765]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.13.51:296][765]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.13.51:296][765]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.13.51:296][765]LogStaticMesh: WritePages:
+[2026.01.19-18.13.51:296][765]LogStaticMesh:   Root: GPU size: 328 bytes. 1 Pages. 328.000 bytes per page (1.001% utilization).
+[2026.01.19-18.13.51:296][765]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.13.51:296][765]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.13.51:296][765]LogStaticMesh:   Total GPU size: 328 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.13.51:296][765]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.13.51:296][765]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.13.51:297][765]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/Motel/Interior/StickyMat.StickyMat
+[2026.01.19-18.13.51:313][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.01.19-18.13.51:971][765]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.13.52:062][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.13.52:083][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.13.52:103][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.13.53:283][825]LogStreaming: Display: FlushAsyncLoading(1374): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.13.53:285][825]LogStaticMesh: Display: Building static mesh PlugSocket (Required Memory Estimate: 0.026703 MB)...
+[2026.01.19-18.13.53:286][825]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.13.53:286][825]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.13.53:286][825]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.13.53:286][825]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.13.53:286][825]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.13.53:286][825]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.13.53:286][825]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.13.53:286][825]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.13.53:286][825]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.13.53:286][825]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.13.53:286][825]LogStaticMesh: WritePages:
+[2026.01.19-18.13.53:286][825]LogStaticMesh:   Root: GPU size: 328 bytes. 1 Pages. 328.000 bytes per page (1.001% utilization).
+[2026.01.19-18.13.53:286][825]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.13.53:286][825]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.13.53:286][825]LogStaticMesh:   Total GPU size: 328 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.13.53:286][825]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.13.53:286][825]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.13.53:287][825]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/Motel/Interior/PlugSocket.PlugSocket
+[2026.01.19-18.13.53:304][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.01.19-18.13.54:028][825]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.13.54:119][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.13.54:138][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.19-18.13.54:158][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.14.03:462][435]LogStreaming: Display: FlushAsyncLoading(1375): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.14.03:463][435]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Models/Export_Art/Motel/Props/Book (0x599FB36B0448A659) /Game/Models/Export_Art/Motel/Props/Book (0x599FB36B0448A659) - Skipping non mounted imported package /Game/Models/Export_Art/Motel/Props/Material_204 (0x2FDCAB337CF54349)
+[2026.01.19-18.14.03:464][435]LogStaticMesh: Display: Building static mesh Book (Required Memory Estimate: 0.026703 MB)...
+[2026.01.19-18.14.03:465][435]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.14.03:465][435]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.14.03:465][435]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.14.03:465][435]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.14.03:465][435]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.14.03:465][435]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.14.03:465][435]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.14.03:465][435]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.14.03:465][435]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.14.03:465][435]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.14.03:465][435]LogStaticMesh: WritePages:
+[2026.01.19-18.14.03:465][435]LogStaticMesh:   Root: GPU size: 328 bytes. 1 Pages. 328.000 bytes per page (1.001% utilization).
+[2026.01.19-18.14.03:465][435]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.14.03:465][435]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.14.03:465][435]LogStaticMesh:   Total GPU size: 328 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.14.03:465][435]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.14.03:465][435]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.14.03:466][435]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/Motel/Props/Book.Book
+[2026.01.19-18.14.03:482][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.01.19-18.14.04:163][435]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.14.04:255][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.14.04:273][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.14.04:292][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.01.19-18.14.04:356][435]LogPackageName: Warning: GetLocalFullPath called on FPackagePath C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Content/Models/Export_Art/Motel/Props/Material_204 which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2026.01.19-18.14.04:356][435]LoadErrors: Warning: While trying to load package /Game/Models/Export_Art/Motel/Props/Book, a dependent package /Game/Models/Export_Art/Motel/Props/Material_204 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Models/Export_Art/Motel/Props/Material_204 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Content/Models/Export_Art/Motel/Props/Material_204.uasset'. Perhaps it has been deleted or was not synced?
+
+[2026.01.19-18.14.09:626][735]LogStreaming: Display: FlushAsyncLoading(1376): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.14.09:628][735]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Export_Art/Motel/Props/PhotoFrame.PhotoFrame
+[2026.01.19-18.14.09:628][735]LogStaticMesh: Display: Building static mesh PhotoFrame (Required Memory Estimate: 0.026703 MB)...
+[2026.01.19-18.14.09:629][735]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.14.09:629][735]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.14.09:629][735]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.14.09:629][735]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.14.09:629][735]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.14.09:629][735]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.14.09:629][735]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.14.09:629][735]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.14.09:629][735]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.14.09:629][735]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.14.09:629][735]LogStaticMesh: WritePages:
+[2026.01.19-18.14.09:629][735]LogStaticMesh:   Root: GPU size: 328 bytes. 1 Pages. 328.000 bytes per page (1.001% utilization).
+[2026.01.19-18.14.09:629][735]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.14.09:629][735]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.14.09:629][735]LogStaticMesh:   Total GPU size: 328 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.14.09:629][735]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.14.09:629][735]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.14.09:630][735]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/Motel/Props/PhotoFrame.PhotoFrame
+[2026.01.19-18.14.09:736][735]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.01.19-18.14.11:125][756]LogSlate: Window 'PhotoFrame' being destroyed
+[2026.01.19-18.14.11:134][756]LogSlate: Window 'PhotoFrame' being destroyed
+[2026.01.19-18.14.11:190][756]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-18.14.11:190][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-18.14.11:240][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.01.19-18.14.13:863][921]LogStreaming: Display: FlushAsyncLoading(1377): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.14.13:865][921]LogStaticMesh: Display: Building static mesh CarDoors (Required Memory Estimate: 0.02669 MB)...
+[2026.01.19-18.14.13:866][921]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.14.13:866][921]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.14.13:866][921]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.14.13:866][921]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.14.13:866][921]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.14.13:866][921]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.14.13:866][921]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.14.13:866][921]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.14.13:866][921]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.14.13:866][921]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.14.13:866][921]LogStaticMesh: WritePages:
+[2026.01.19-18.14.13:866][921]LogStaticMesh:   Root: GPU size: 320 bytes. 1 Pages. 320.000 bytes per page (0.977% utilization).
+[2026.01.19-18.14.13:866][921]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.14.13:866][921]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.14.13:866][921]LogStaticMesh:   Total GPU size: 320 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.14.13:866][921]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.14.13:866][921]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.14.13:867][921]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/Vehicle/CarDoors.CarDoors
+[2026.01.19-18.14.13:885][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.01.19-18.14.14:957][921]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.14.15:017][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.01.19-18.14.15:036][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.01.19-18.14.15:055][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.01.19-18.14.15:834][968]LogStreaming: Display: FlushAsyncLoading(1378): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.14.15:836][968]LogStaticMesh: Display: Building static mesh CarChassis (Required Memory Estimate: 0.02669 MB)...
+[2026.01.19-18.14.15:837][968]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.14.15:837][968]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.14.15:837][968]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.14.15:837][968]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.14.15:837][968]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.14.15:837][968]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.14.15:837][968]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.14.15:837][968]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.14.15:837][968]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.14.15:837][968]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.14.15:837][968]LogStaticMesh: WritePages:
+[2026.01.19-18.14.15:837][968]LogStaticMesh:   Root: GPU size: 320 bytes. 1 Pages. 320.000 bytes per page (0.977% utilization).
+[2026.01.19-18.14.15:837][968]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.14.15:837][968]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.14.15:837][968]LogStaticMesh:   Total GPU size: 320 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.14.15:837][968]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.14.15:837][968]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.14.15:838][968]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/Vehicle/CarChassis.CarChassis
+[2026.01.19-18.14.15:855][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.01.19-18.14.16:531][968]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.14.16:578][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.14.16:597][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.01.19-18.14.16:615][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.14.17:928][ 50]LogStreaming: Display: FlushAsyncLoading(1379): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.14.17:930][ 50]LogStaticMesh: Display: Building static mesh CarHubCap (Required Memory Estimate: 0.02669 MB)...
+[2026.01.19-18.14.17:930][ 50]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.14.17:930][ 50]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.14.17:930][ 50]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.14.17:930][ 50]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.14.17:930][ 50]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.14.17:930][ 50]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.14.17:930][ 50]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.14.17:930][ 50]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.14.17:930][ 50]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.14.17:930][ 50]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.14.17:931][ 50]LogStaticMesh: WritePages:
+[2026.01.19-18.14.17:931][ 50]LogStaticMesh:   Root: GPU size: 320 bytes. 1 Pages. 320.000 bytes per page (0.977% utilization).
+[2026.01.19-18.14.17:931][ 50]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.14.17:931][ 50]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.14.17:931][ 50]LogStaticMesh:   Total GPU size: 320 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.14.17:931][ 50]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.14.17:931][ 50]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.14.17:931][ 50]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/Vehicle/CarHubCap.CarHubCap
+[2026.01.19-18.14.17:948][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.01.19-18.14.18:971][ 50]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.14.19:029][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.19-18.14.19:050][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.01.19-18.14.19:071][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.01.19-18.14.19:955][104]LogStreaming: Display: FlushAsyncLoading(1380): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.14.19:957][104]LogStaticMesh: Display: Building static mesh CarInterior (Required Memory Estimate: 0.02669 MB)...
+[2026.01.19-18.14.19:958][104]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.14.19:958][104]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.14.19:958][104]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.14.19:958][104]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.14.19:958][104]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.14.19:958][104]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.14.19:958][104]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.14.19:958][104]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.14.19:958][104]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.14.19:958][104]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.14.19:958][104]LogStaticMesh: WritePages:
+[2026.01.19-18.14.19:958][104]LogStaticMesh:   Root: GPU size: 320 bytes. 1 Pages. 320.000 bytes per page (0.977% utilization).
+[2026.01.19-18.14.19:958][104]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.14.19:958][104]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.14.19:958][104]LogStaticMesh:   Total GPU size: 320 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.14.19:958][104]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.14.19:958][104]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.14.19:959][104]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/Vehicle/CarInterior.CarInterior
+[2026.01.19-18.14.19:976][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.01.19-18.14.20:629][104]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.14.20:686][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.14.20:705][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.14.20:724][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.01.19-18.14.21:698][164]LogStreaming: Display: FlushAsyncLoading(1381): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-18.14.21:701][164]LogStaticMesh: Display: Building static mesh CarTireMarks (Required Memory Estimate: 0.02669 MB)...
+[2026.01.19-18.14.21:701][164]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.01.19-18.14.21:702][164]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-18.14.21:702][164]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-18.14.21:702][164]LogStaticMesh: Reduce [0.00s]
+[2026.01.19-18.14.21:702][164]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.01.19-18.14.21:702][164]LogStaticMesh: ConstrainClusters:
+[2026.01.19-18.14.21:702][164]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.14.21:702][164]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.14.21:702][164]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 14 Vertices
+[2026.01.19-18.14.21:702][164]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-18.14.21:702][164]LogStaticMesh: WritePages:
+[2026.01.19-18.14.21:702][164]LogStaticMesh:   Root: GPU size: 320 bytes. 1 Pages. 320.000 bytes per page (0.977% utilization).
+[2026.01.19-18.14.21:702][164]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-18.14.21:702][164]LogStaticMesh:   Page data disk size: 472 bytes. Fixup data size: 24 bytes.
+[2026.01.19-18.14.21:702][164]LogStaticMesh:   Total GPU size: 320 bytes, Total disk size: 496 bytes.
+[2026.01.19-18.14.21:702][164]LogStaticMesh: Encode [0.00s]
+[2026.01.19-18.14.21:702][164]LogStaticMesh: Nanite build [0.00s]
+
+[2026.01.19-18.14.21:702][164]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Export_Art/Vehicle/CarTireMarks.CarTireMarks
+[2026.01.19-18.14.21:720][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.01.19-18.14.23:216][164]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.19-18.14.23:275][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.01.19-18.14.23:295][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.19-18.14.23:314][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.14.28:941][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.19-18.14.30:208][541]LogSlate: Window 'Save Content' being destroyed
+[2026.01.19-18.14.30:219][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.19-18.14.30:345][541]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C7BEF43C45D9FB402_1919164566 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/FF/6MWKYZ5K32P04EWJ3H9SF2.PackageMetaData in its package
+[2026.01.19-18.14.30:345][541]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C7BEF43C45D9FB402_1948125567 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/Q1/6EK4D98FSHSXAPJN8OXHIC.PackageMetaData in its package
+[2026.01.19-18.14.30:345][541]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C7BEF43C45D9EB402_1630483388 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/GY/N94B9G2RUR9XR41VUYHK54.PackageMetaData in its package
+[2026.01.19-18.14.30:345][541]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D0AD0856DC56EEB402_1141707463 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/KH/PB7IVC9MLH2WNPM4RVCJ59.PackageMetaData in its package
+[2026.01.19-18.14.30:345][541]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C7BEF43C45D9EB402_1838136389 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Z2/VLWBNHMOQHTD7GA8DLWQWY.PackageMetaData in its package
+[2026.01.19-18.14.30:346][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.01.19-18.14.30:367][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.01.19-18.14.30:387][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.01.19-18.14.30:391][541]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/IO/X973EBQGWBC5KZECRRTMC5
+[2026.01.19-18.14.30:391][541]LogSavePackage: Moving 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/X973EBQGWBC5KZECRRTMC5E1D33CA143E1F065A63A20B5DF57AAAD.tmp' to 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/IO/X973EBQGWBC5KZECRRTMC5.uasset'
+[2026.01.19-18.14.30:393][541]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/BH/MZKXKDF5WHG3J2I2LYPBH0
+[2026.01.19-18.14.30:394][541]LogSavePackage: Moving 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/MZKXKDF5WHG3J2I2LYPBH01590EFE94E4913E264F876915580A221.tmp' to 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/BH/MZKXKDF5WHG3J2I2LYPBH0.uasset'
+[2026.01.19-18.14.30:396][541]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/2X/SGGM4J2NBHUCC3Y7KXGENX
+[2026.01.19-18.14.30:397][541]LogSavePackage: Moving 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/SGGM4J2NBHUCC3Y7KXGENX17E67FA64101C4011E95A193A7D0BBE7.tmp' to 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/2X/SGGM4J2NBHUCC3Y7KXGENX.uasset'
+[2026.01.19-18.14.30:399][541]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/R6/GXL6JS2J2YO4NKPT2V0N36
+[2026.01.19-18.14.30:399][541]LogSavePackage: Moving 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/GXL6JS2J2YO4NKPT2V0N363768100146EEC3CFFE4A958A641944FF.tmp' to 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/R6/GXL6JS2J2YO4NKPT2V0N36.uasset'
+[2026.01.19-18.14.30:402][541]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/YS/Y729LBIVXKU71CUTQM6W4E
+[2026.01.19-18.14.30:402][541]LogSavePackage: Moving 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/Y729LBIVXKU71CUTQM6W4E7052505E43233FE331B214AE01BE9AEF.tmp' to 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/YS/Y729LBIVXKU71CUTQM6W4E.uasset'
+[2026.01.19-18.14.30:404][541]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Export_Art/Environment/Fauna/Scorpion] ([1] browsable assets)...
+[2026.01.19-18.14.30:404][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Export_Art/Environment/Fauna/Scorpion]
+[2026.01.19-18.14.30:408][541]LogSavePackage: Moving output files for package: /Game/Models/Export_Art/Environment/Fauna/Scorpion
+[2026.01.19-18.14.30:408][541]LogSavePackage: Moving 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/ScorpionF24F0069404985903B0C118AD315DBF7.tmp' to 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Content/Models/Export_Art/Environment/Fauna/Scorpion.uasset'
+[2026.01.19-18.14.30:411][541]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/A7/Z7WNBH0V78ZE7JUT2FN0EA
+[2026.01.19-18.14.30:411][541]LogSavePackage: Moving 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/Z7WNBH0V78ZE7JUT2FN0EA87CA294C434040D6EA3E25B70E32459F.tmp' to 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/A7/Z7WNBH0V78ZE7JUT2FN0EA.uasset'
+[2026.01.19-18.14.30:421][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 202.859 ms
+[2026.01.19-18.14.30:508][541]LogContentValidation: Display: Starting to validate 7 assets
+[2026.01.19-18.14.30:509][541]LogContentValidation: Enabled validators:
+[2026.01.19-18.14.30:509][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.19-18.14.30:509][541]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.19-18.14.30:509][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.19-18.14.30:509][541]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.19-18.14.30:509][541]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.19-18.14.30:509][541]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.19-18.14.30:509][541]AssetCheck: /Game/Models/Export_Art/Environment/Fauna/Scorpion Validating asset
+[2026.01.19-18.14.30:510][541]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2026.01.19-18.14.30:546][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.14.47:352][891]Cmd: DELETE
+[2026.01.19-18.14.47:352][891]Cmd: ACTOR DELETE
+[2026.01.19-18.14.47:367][891]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.14.47:385][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.14.47:390][891]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.01.19-18.14.47:981][937]Cmd: DELETE
+[2026.01.19-18.14.47:981][937]Cmd: ACTOR DELETE
+[2026.01.19-18.14.47:999][937]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.14.48:018][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.19-18.14.48:022][937]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.01.19-18.14.48:347][960]Cmd: DELETE
+[2026.01.19-18.14.48:347][960]Cmd: ACTOR DELETE
+[2026.01.19-18.14.48:361][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.14.48:381][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.14.48:385][960]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.01.19-18.14.48:946][997]Cmd: DELETE
+[2026.01.19-18.14.48:946][997]Cmd: ACTOR DELETE
+[2026.01.19-18.14.48:961][997]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.14.48:981][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.19-18.14.48:985][997]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.01.19-18.14.50:478][139]Cmd: DELETE
+[2026.01.19-18.14.50:478][139]Cmd: ACTOR DELETE
+[2026.01.19-18.14.50:494][139]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.14.50:515][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.14.50:519][139]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.01.19-18.14.51:187][188]Cmd: DELETE
+[2026.01.19-18.14.51:187][188]Cmd: ACTOR DELETE
+[2026.01.19-18.14.51:205][188]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.14.51:226][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.01.19-18.14.51:230][188]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2026.01.19-18.14.52:077][260]Cmd: DELETE
+[2026.01.19-18.14.52:077][260]Cmd: ACTOR DELETE
+[2026.01.19-18.14.52:092][260]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.14.52:111][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.19-18.14.52:115][260]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2026.01.19-18.14.52:658][294]Cmd: DELETE
+[2026.01.19-18.14.52:658][294]Cmd: ACTOR DELETE
+[2026.01.19-18.14.52:674][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.14.52:693][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.14.52:697][294]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2026.01.19-18.14.53:348][358]Cmd: DELETE
+[2026.01.19-18.14.53:348][358]Cmd: ACTOR DELETE
+[2026.01.19-18.14.53:362][358]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.14.53:382][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.14.53:386][358]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.01.19-18.14.54:054][418]Cmd: DELETE
+[2026.01.19-18.14.54:054][418]Cmd: ACTOR DELETE
+[2026.01.19-18.14.54:069][418]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.14.54:089][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.19-18.14.54:092][418]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2026.01.19-18.14.54:547][443]Cmd: DELETE
+[2026.01.19-18.14.54:547][443]Cmd: ACTOR DELETE
+[2026.01.19-18.14.54:562][443]LogEditorActor: Deleted Actor: SpotLight
+[2026.01.19-18.14.54:581][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.01.19-18.14.54:584][443]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2026.01.19-18.14.55:106][482]Cmd: DELETE
+[2026.01.19-18.14.55:106][482]Cmd: ACTOR DELETE
+[2026.01.19-18.14.55:122][482]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.14.55:141][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.14.55:144][482]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.01.19-18.14.56:390][602]Cmd: DELETE
+[2026.01.19-18.14.56:391][602]Cmd: ACTOR DELETE
+[2026.01.19-18.14.56:408][602]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.14.56:428][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.19-18.14.56:432][602]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.01.19-18.14.57:322][688]Cmd: DELETE
+[2026.01.19-18.14.57:322][688]Cmd: ACTOR DELETE
+[2026.01.19-18.14.57:336][688]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.14.57:356][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.14.57:360][688]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2026.01.19-18.14.57:843][718]Cmd: DELETE
+[2026.01.19-18.14.57:843][718]Cmd: ACTOR DELETE
+[2026.01.19-18.14.57:858][718]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.14.57:880][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.01.19-18.14.57:885][718]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.01.19-18.14.58:609][785]Cmd: DELETE
+[2026.01.19-18.14.58:609][785]Cmd: ACTOR DELETE
+[2026.01.19-18.14.58:623][785]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.14.58:644][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.14.58:648][785]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.01.19-18.14.59:315][834]Cmd: DELETE
+[2026.01.19-18.14.59:315][834]Cmd: ACTOR DELETE
+[2026.01.19-18.14.59:331][834]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.14.59:352][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.14.59:356][834]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.01.19-18.14.59:835][870]Cmd: DELETE
+[2026.01.19-18.14.59:835][870]Cmd: ACTOR DELETE
+[2026.01.19-18.14.59:850][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.14.59:870][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.01.19-18.14.59:874][870]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.01.19-18.15.00:315][906]Cmd: DELETE
+[2026.01.19-18.15.00:315][906]Cmd: ACTOR DELETE
+[2026.01.19-18.15.00:330][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.00:351][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.15.00:355][906]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.01.19-18.15.01:274][987]Cmd: DELETE
+[2026.01.19-18.15.01:274][987]Cmd: ACTOR DELETE
+[2026.01.19-18.15.01:288][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.01:309][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.15.01:313][987]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2026.01.19-18.15.01:942][ 41]Cmd: DELETE
+[2026.01.19-18.15.01:942][ 41]Cmd: ACTOR DELETE
+[2026.01.19-18.15.01:957][ 41]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.01:978][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.15.01:982][ 41]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.01.19-18.15.03:002][132]Cmd: DELETE
+[2026.01.19-18.15.03:002][132]Cmd: ACTOR DELETE
+[2026.01.19-18.15.03:018][132]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.03:040][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.01.19-18.15.03:044][132]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.01.19-18.15.03:977][215]Cmd: DELETE
+[2026.01.19-18.15.03:977][215]Cmd: ACTOR DELETE
+[2026.01.19-18.15.03:993][215]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.04:014][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.19-18.15.04:018][215]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.01.19-18.15.04:926][276]Cmd: DELETE
+[2026.01.19-18.15.04:927][276]Cmd: ACTOR DELETE
+[2026.01.19-18.15.04:927][276]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2026.01.19-18.15.04:942][276]LogEditorActor: Deleted Actor: SpotLight
+[2026.01.19-18.15.04:964][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.19-18.15.04:968][276]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.01.19-18.15.05:594][335]Cmd: DELETE
+[2026.01.19-18.15.05:594][335]Cmd: ACTOR DELETE
+[2026.01.19-18.15.05:609][335]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.05:628][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.15.05:631][335]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2026.01.19-18.15.06:155][375]Cmd: DELETE
+[2026.01.19-18.15.06:155][375]Cmd: ACTOR DELETE
+[2026.01.19-18.15.06:170][375]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.06:191][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.15.06:195][375]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2026.01.19-18.15.08:236][565]Cmd: DELETE
+[2026.01.19-18.15.08:236][565]Cmd: ACTOR DELETE
+[2026.01.19-18.15.08:252][565]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.08:274][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.15.08:278][565]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.01.19-18.15.08:573][582]Cmd: DELETE
+[2026.01.19-18.15.08:573][582]Cmd: ACTOR DELETE
+[2026.01.19-18.15.08:588][582]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2026.01.19-18.15.08:610][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.15.08:614][582]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.01.19-18.15.09:395][650]Cmd: DELETE
+[2026.01.19-18.15.09:395][650]Cmd: ACTOR DELETE
+[2026.01.19-18.15.09:410][650]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.09:432][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.15.09:435][650]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.01.19-18.15.15:682][286]Cmd: DELETE
+[2026.01.19-18.15.15:682][286]Cmd: ACTOR DELETE
+[2026.01.19-18.15.15:697][286]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.15:716][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.15.15:720][286]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.01.19-18.15.17:155][415]Cmd: DELETE
+[2026.01.19-18.15.17:155][415]Cmd: ACTOR DELETE
+[2026.01.19-18.15.17:170][415]LogEditorActor: Deleted Actor: SpotLight
+[2026.01.19-18.15.17:191][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.19-18.15.17:194][415]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.01.19-18.15.20:645][768]Cmd: DELETE
+[2026.01.19-18.15.20:645][768]Cmd: ACTOR DELETE
+[2026.01.19-18.15.20:661][768]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.20:680][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.15.20:684][768]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2026.01.19-18.15.22:323][930]Cmd: DELETE
+[2026.01.19-18.15.22:323][930]Cmd: ACTOR DELETE
+[2026.01.19-18.15.22:338][930]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.22:360][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.15.22:364][930]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.01.19-18.15.22:687][954]Cmd: DELETE
+[2026.01.19-18.15.22:687][954]Cmd: ACTOR DELETE
+[2026.01.19-18.15.22:702][954]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.22:723][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.15.22:727][954]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.01.19-18.15.23:124][979]Cmd: DELETE
+[2026.01.19-18.15.23:124][979]Cmd: ACTOR DELETE
+[2026.01.19-18.15.23:139][979]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.23:161][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.15.23:165][979]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.01.19-18.15.23:581][ 10]Cmd: DELETE
+[2026.01.19-18.15.23:582][ 10]Cmd: ACTOR DELETE
+[2026.01.19-18.15.23:597][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.23:616][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.01.19-18.15.23:620][ 10]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2026.01.19-18.15.24:644][ 95]Cmd: DELETE
+[2026.01.19-18.15.24:644][ 95]Cmd: ACTOR DELETE
+[2026.01.19-18.15.24:660][ 95]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.24:680][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.19-18.15.24:683][ 95]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2026.01.19-18.15.25:269][153]Cmd: DELETE
+[2026.01.19-18.15.25:269][153]Cmd: ACTOR DELETE
+[2026.01.19-18.15.25:284][153]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.25:307][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.19-18.15.25:313][153]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2026.01.19-18.15.26:350][248]Cmd: DELETE
+[2026.01.19-18.15.26:350][248]Cmd: ACTOR DELETE
+[2026.01.19-18.15.26:364][248]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.26:386][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.19-18.15.26:389][248]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2026.01.19-18.15.26:797][275]Cmd: DELETE
+[2026.01.19-18.15.26:797][275]Cmd: ACTOR DELETE
+[2026.01.19-18.15.26:812][275]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.26:834][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.15.26:838][275]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.01.19-18.15.27:597][342]Cmd: DELETE
+[2026.01.19-18.15.27:597][342]Cmd: ACTOR DELETE
+[2026.01.19-18.15.27:612][342]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.27:634][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.15.27:639][342]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.01.19-18.15.28:519][415]Cmd: DELETE
+[2026.01.19-18.15.28:520][415]Cmd: ACTOR DELETE
+[2026.01.19-18.15.28:535][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.28:557][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.15.28:561][415]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.01.19-18.15.29:718][530]Cmd: DELETE
+[2026.01.19-18.15.29:718][530]Cmd: ACTOR DELETE
+[2026.01.19-18.15.29:733][530]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.29:756][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.15.29:760][530]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.01.19-18.15.30:236][566]Cmd: DELETE
+[2026.01.19-18.15.30:236][566]Cmd: ACTOR DELETE
+[2026.01.19-18.15.30:251][566]LogEditorActor: Deleted Actor: SpotLight
+[2026.01.19-18.15.30:274][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.15.30:278][566]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2026.01.19-18.15.30:816][609]Cmd: DELETE
+[2026.01.19-18.15.30:816][609]Cmd: ACTOR DELETE
+[2026.01.19-18.15.30:832][609]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.30:855][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.19-18.15.30:858][609]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.01.19-18.15.31:930][718]Cmd: DELETE
+[2026.01.19-18.15.31:930][718]Cmd: ACTOR DELETE
+[2026.01.19-18.15.31:944][718]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.31:967][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.15.31:971][718]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.01.19-18.15.32:600][763]Cmd: DELETE
+[2026.01.19-18.15.32:600][763]Cmd: ACTOR DELETE
+[2026.01.19-18.15.32:616][763]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.32:637][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.15.32:641][763]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.01.19-18.15.34:213][930]Cmd: DELETE
+[2026.01.19-18.15.34:213][930]Cmd: ACTOR DELETE
+[2026.01.19-18.15.34:228][930]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.34:249][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.15.34:253][930]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.01.19-18.15.35:608][ 62]Cmd: DELETE
+[2026.01.19-18.15.35:608][ 62]Cmd: ACTOR DELETE
+[2026.01.19-18.15.35:623][ 62]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.35:646][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.15.35:650][ 62]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.01.19-18.15.36:073][ 91]Cmd: DELETE
+[2026.01.19-18.15.36:073][ 91]Cmd: ACTOR DELETE
+[2026.01.19-18.15.36:088][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.36:112][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.15.36:115][ 91]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.01.19-18.15.36:789][149]Cmd: DELETE
+[2026.01.19-18.15.36:789][149]Cmd: ACTOR DELETE
+[2026.01.19-18.15.36:803][149]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.36:826][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.15.36:831][149]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.01.19-18.15.37:320][180]Cmd: DELETE
+[2026.01.19-18.15.37:320][180]Cmd: ACTOR DELETE
+[2026.01.19-18.15.37:334][180]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.37:360][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.01.19-18.15.37:364][180]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2026.01.19-18.15.37:793][216]Cmd: DELETE
+[2026.01.19-18.15.37:794][216]Cmd: ACTOR DELETE
+[2026.01.19-18.15.37:808][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.37:831][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.01.19-18.15.37:836][216]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.01.19-18.15.38:605][289]Cmd: DELETE
+[2026.01.19-18.15.38:606][289]Cmd: ACTOR DELETE
+[2026.01.19-18.15.38:620][289]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.15.38:640][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.19-18.15.38:643][289]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2026.01.19-18.15.48:321][110]Cmd: DELETE
+[2026.01.19-18.15.48:321][110]Cmd: ACTOR DELETE
+[2026.01.19-18.15.48:341][110]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.01.19-18.15.48:377][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-18.15.48:380][110]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2026.01.19-18.15.49:348][163]Cmd: DELETE
+[2026.01.19-18.15.49:348][163]Cmd: ACTOR DELETE
+[2026.01.19-18.15.49:367][163]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.01.19-18.15.49:403][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.01.19-18.15.49:408][163]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2026.01.19-18.15.50:132][200]Cmd: DELETE
+[2026.01.19-18.15.50:132][200]Cmd: ACTOR DELETE
+[2026.01.19-18.15.50:147][200]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.01.19-18.15.50:179][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.01.19-18.15.50:184][200]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2026.01.19-18.15.57:225][672]Cmd: DELETE
+[2026.01.19-18.15.57:225][672]Cmd: ACTOR DELETE
+[2026.01.19-18.15.57:243][672]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.01.19-18.15.57:280][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.01.19-18.15.57:285][672]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2026.01.19-18.15.57:865][693]Cmd: DELETE
+[2026.01.19-18.15.57:865][693]Cmd: ACTOR DELETE
+[2026.01.19-18.15.57:880][693]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.01.19-18.15.57:912][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.01.19-18.15.57:917][693]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2026.01.19-18.15.58:488][735]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4385.748047
+[2026.01.19-18.15.58:778][746]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-18.15.58:778][746]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4385.880371, Update Interval: 347.678467
+[2026.01.19-18.15.58:779][747]Cmd: DELETE
+[2026.01.19-18.15.58:779][747]Cmd: ACTOR DELETE
+[2026.01.19-18.15.58:794][747]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.01.19-18.15.58:827][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.01.19-18.15.58:832][747]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2026.01.19-18.15.59:468][783]Cmd: DELETE
+[2026.01.19-18.15.59:468][783]Cmd: ACTOR DELETE
+[2026.01.19-18.15.59:485][783]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.01.19-18.15.59:518][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.01.19-18.15.59:522][783]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2026.01.19-18.16.00:046][812]Cmd: DELETE
+[2026.01.19-18.16.00:046][812]Cmd: ACTOR DELETE
+[2026.01.19-18.16.00:061][812]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.01.19-18.16.00:095][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.01.19-18.16.00:100][812]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2026.01.19-18.16.00:621][841]Cmd: DELETE
+[2026.01.19-18.16.00:621][841]Cmd: ACTOR DELETE
+[2026.01.19-18.16.00:639][841]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.01.19-18.16.00:675][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.01.19-18.16.00:680][841]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2026.01.19-18.16.01:502][897]Cmd: DELETE
+[2026.01.19-18.16.01:502][897]Cmd: ACTOR DELETE
+[2026.01.19-18.16.01:517][897]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.01.19-18.16.01:552][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.01.19-18.16.01:557][897]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2026.01.19-18.16.01:960][915]Cmd: DELETE
+[2026.01.19-18.16.01:961][915]Cmd: ACTOR DELETE
+[2026.01.19-18.16.01:977][915]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.01.19-18.16.02:013][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.01.19-18.16.02:018][915]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2026.01.19-18.16.02:543][947]Cmd: DELETE
+[2026.01.19-18.16.02:543][947]Cmd: ACTOR DELETE
+[2026.01.19-18.16.02:558][947]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.01.19-18.16.02:593][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.01.19-18.16.02:598][947]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2026.01.19-18.16.03:315][993]Cmd: DELETE
+[2026.01.19-18.16.03:315][993]Cmd: ACTOR DELETE
+[2026.01.19-18.16.03:333][993]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.01.19-18.16.03:368][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.01.19-18.16.03:373][993]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2026.01.19-18.16.04:037][ 34]Cmd: DELETE
+[2026.01.19-18.16.04:037][ 34]Cmd: ACTOR DELETE
+[2026.01.19-18.16.04:055][ 34]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.01.19-18.16.04:088][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.01.19-18.16.04:092][ 34]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2026.01.19-18.16.04:736][ 74]Cmd: DELETE
+[2026.01.19-18.16.04:736][ 74]Cmd: ACTOR DELETE
+[2026.01.19-18.16.04:754][ 74]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.01.19-18.16.04:788][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.01.19-18.16.04:793][ 74]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2026.01.19-18.16.05:506][122]Cmd: DELETE
+[2026.01.19-18.16.05:506][122]Cmd: ACTOR DELETE
+[2026.01.19-18.16.05:524][122]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.01.19-18.16.05:554][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.01.19-18.16.05:559][122]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2026.01.19-18.17.21:366][580]LogSlate: Took 0.000464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.01.19-18.17.21:431][580]LogD3D12RHI: Creating RTPSO with 21 shaders (13 cached, 8 new) took 13.90 ms. Compile time 8.87 ms, link time 5.01 ms.
+[2026.01.19-18.17.21:706][580]LogD3D12RHI: Creating RTPSO with 28 shaders (0 cached, 28 new) took 301.97 ms. Compile time 222.62 ms, link time 79.32 ms.
+[2026.01.19-18.17.26:989][999]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.01.19-18.17.35:899][559]LogSlate: External Image Picker: DecompressImage failed
+[2026.01.19-18.17.37:700][617]LogSlate: Window 'Project Settings' being destroyed
+[2026.01.19-18.17.37:708][617]LogSlate: Window 'Project Settings' being destroyed
+[2026.01.19-18.17.46:788][313]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.01.19-18.17.48:064][395]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.01.19-18.18.14:559][501]LogShaderCompilers: Display: ================================================
+[2026.01.19-18.18.14:559][501]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.19-18.18.14:559][501]LogShaderCompilers: Display: Total job queries 471, among them cache hits 75 (15.92%), DDC hits 356 (75.58%), Duplicates 15 (3.18%)
+[2026.01.19-18.18.14:559][501]LogShaderCompilers: Display: Tracking 379 distinct input hashes that result in 306 distinct outputs (80.74%)
+[2026.01.19-18.18.14:559][501]LogShaderCompilers: Display: RAM used: 180.93 KiB of 1.60 GiB budget. Usage: 0.01%
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Shaders Compiled: 23
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Jobs assigned 23, completed 23 (100%)
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Average time worker was idle: 879.80 s
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.09 s
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Job execution time: average 1.88 s, max 3.55 s
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Job life time (pending + execution): average 1.96 s, max 3.63
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Shader code size: average 6.42 KiB, min 2.293 KiB, max 11.277 KiB
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.01 s
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Jobs were issued in 23 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Average processing rate: 2.55 jobs/sec
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Total thread time: 11.734 s
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Total thread preprocess time: 8.472 s
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Percentage time preprocessing: 72.20%
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Effective parallelization: 1.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.91 sec, max 0.91 sec, min 0.91 sec)
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.59 sec, max 0.74 sec, min 0.49 sec)
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    2 times, average 0.55 sec, max 0.56 sec, min 0.54 sec)
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 0.53 sec, max 0.54 sec, min 0.52 sec)
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.49 sec, max 0.50 sec, min 0.49 sec)
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.23% of total time (compiled    5 times, average 0.59 sec, max 0.74 sec, min 0.49 sec)
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.96% of total time (compiled    4 times, average 0.35 sec, max 0.47 sec, min 0.30 sec)
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display:                                                  FHitProxyPS - 9.35% of total time (compiled    2 times, average 0.55 sec, max 0.56 sec, min 0.54 sec)
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.29% of total time (compiled    3 times, average 0.36 sec, max 0.38 sec, min 0.35 sec)
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 9.02% of total time (compiled    2 times, average 0.53 sec, max 0.54 sec, min 0.52 sec)
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: === Material stats ===
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Materials Translated:    207
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Material Translation Only: 0.06 s (60%)
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: Material Cache Hits: 65 (31%)
+[2026.01.19-18.18.14:560][501]LogShaderCompilers: Display: ================================================
+[2026.01.19-18.18.20:545][916]LogSlate: Window 'Outliner' being destroyed
+[2026.01.19-18.18.43:014][807]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.01.19-18.18.54:295][756]Cmd: DELETE
+[2026.01.19-18.18.54:295][756]Cmd: ACTOR DELETE
+[2026.01.19-18.18.54:313][756]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-18.18.54:341][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.01.19-18.18.54:349][756]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2026.01.19-18.19.18:379][880]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonNature/Meshes/Terrain/SM_River_Plane_01.SM_River_Plane_01
+[2026.01.19-18.19.18:379][880]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonNature/Meshes/Terrain/SM_River_Plane_01.SM_River_Plane_01
+[2026.01.19-18.19.18:380][880]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonNature/Meshes/Terrain/SM_River_Plane_01.SM_River_Plane_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_3
+[2026.01.19-18.19.19:288][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.19-18.19.19:290][946]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.01.19-18.19.19:295][946]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonNature/Meshes/Terrain/SM_River_Plane_01.SM_River_Plane_01
+[2026.01.19-18.19.19:295][946]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonNature/Meshes/Terrain/SM_River_Plane_01.SM_River_Plane_01
+[2026.01.19-18.19.19:298][946]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonNature/Meshes/Terrain/SM_River_Plane_01.SM_River_Plane_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7454B697E3B602_2026223642
+[2026.01.19-18.20.30:904][424]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonNature/Meshes/Terrain/SM_River_Plane_01.SM_River_Plane_01
+[2026.01.19-18.20.30:904][424]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonNature/Meshes/Terrain/SM_River_Plane_01.SM_River_Plane_01
+[2026.01.19-18.20.30:905][424]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonNature/Meshes/Terrain/SM_River_Plane_01.SM_River_Plane_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_4
+[2026.01.19-18.20.32:288][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.01.19-18.20.32:290][485]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.01.19-18.20.32:296][485]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonNature/Meshes/Terrain/SM_River_Plane_01.SM_River_Plane_01
+[2026.01.19-18.20.32:297][485]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonNature/Meshes/Terrain/SM_River_Plane_01.SM_River_Plane_01
+[2026.01.19-18.20.32:300][485]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonNature/Meshes/Terrain/SM_River_Plane_01.SM_River_Plane_01 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7454B697E3B602_2099225643
+[2026.01.19-18.21.14:618][110]LogShaderCompilers: Display: ================================================
+[2026.01.19-18.21.14:618][110]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.19-18.21.14:618][110]LogShaderCompilers: Display: Total job queries 486, among them cache hits 79 (16.26%), DDC hits 362 (74.49%), Duplicates 15 (3.09%)
+[2026.01.19-18.21.14:618][110]LogShaderCompilers: Display: Tracking 390 distinct input hashes that result in 314 distinct outputs (80.51%)
+[2026.01.19-18.21.14:618][110]LogShaderCompilers: Display: RAM used: 183.40 KiB of 1.60 GiB budget. Usage: 0.01%
+[2026.01.19-18.21.14:618][110]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Shaders Compiled: 28
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Jobs assigned 28, completed 28 (100%)
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Average time worker was idle: 665.61 s
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.09 s
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Job execution time: average 1.85 s, max 3.55 s
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Job life time (pending + execution): average 1.93 s, max 3.63
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Shader code size: average 6.504 KiB, min 2.293 KiB, max 11.277 KiB
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.33 s
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Jobs were issued in 28 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Average processing rate: 2.47 jobs/sec
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Total thread time: 14.645 s
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Total thread preprocess time: 8.635 s
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Percentage time preprocessing: 58.96%
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Effective parallelization: 1.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.01 sec, max 1.11 sec, min 0.91 sec)
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.59 sec, max 0.74 sec, min 0.49 sec)
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    2 times, average 0.55 sec, max 0.56 sec, min 0.54 sec)
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 0.53 sec, max 0.54 sec, min 0.52 sec)
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.49 sec, max 0.50 sec, min 0.49 sec)
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.34% of total time (compiled    6 times, average 0.59 sec, max 0.74 sec, min 0.49 sec)
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 13.82% of total time (compiled    2 times, average 1.01 sec, max 1.11 sec, min 0.91 sec)
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.31% of total time (compiled    5 times, average 0.36 sec, max 0.47 sec, min 0.30 sec)
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.46% of total time (compiled    4 times, average 0.38 sec, max 0.44 sec, min 0.35 sec)
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.55% of total time (compiled    4 times, average 0.31 sec, max 0.35 sec, min 0.28 sec)
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: === Material stats ===
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Materials Translated:    208
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Material Translation Only: 0.06 s (60%)
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: Material Cache Hits: 65 (31%)
+[2026.01.19-18.21.14:619][110]LogShaderCompilers: Display: ================================================
+[2026.01.19-18.21.20:408][431]LogSlate: Window 'Outliner 3' being destroyed
+[2026.01.19-18.21.20:437][431]LogSlate: Window 'Outliner 3' being destroyed
+[2026.01.19-18.21.41:805][603]LogSlate: Window 'Details' being destroyed
+[2026.01.19-18.22.15:177][871]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.19-18.22.15:305][871]LogTexture: Display: Building textures: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_D3VEH2X17D983IXQGOT4M4ZH4_63_6_4_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.01.19-18.22.15:329][871]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7454B697E3B602_1437843641 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/JQ/JGB70NFJA1YRLPP70R6VEU.PackageMetaData in its package
+[2026.01.19-18.22.15:329][871]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7454B697E3B602_1432403640 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/0U/FIPXR5W61G67OVN93RG5YS.PackageMetaData in its package
+[2026.01.19-18.22.15:330][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.01.19-18.22.15:362][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.01.19-18.22.15:387][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.01.19-18.22.15:420][871]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/IT/ZWKBF4Y1XCN7Q39EGDX5U4
+[2026.01.19-18.22.15:420][871]LogSavePackage: Moving 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/ZWKBF4Y1XCN7Q39EGDX5U47DF3B29E4BA2410468FA988A2A50BEB4.tmp' to 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/IT/ZWKBF4Y1XCN7Q39EGDX5U4.uasset'
+[2026.01.19-18.22.15:422][871]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/X2/ZA6AYWBUG9ZV39GPNSMM7N
+[2026.01.19-18.22.15:422][871]LogSavePackage: Moving 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/ZA6AYWBUG9ZV39GPNSMM7NBBF8666744704371F22950A198B2D42F.tmp' to 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/X2/ZA6AYWBUG9ZV39GPNSMM7N.uasset'
+[2026.01.19-18.22.15:434][871]LogFileHelpers: InternalPromptForCheckoutAndSave took 257.105 ms (total: 459.964 ms)
+[2026.01.19-18.22.15:505][871]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.19-18.22.15:505][871]LogContentValidation: Enabled validators:
+[2026.01.19-18.22.15:505][871]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.19-18.22.15:505][871]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.19-18.22.15:505][871]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.19-18.22.15:505][871]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.19-18.22.15:505][871]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.19-18.22.15:505][871]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.19-18.22.15:506][871]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2026.01.19-18.22.15:545][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.19-18.22.17:491][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.01.19-18.22.17:584][981]LogStall: Shutdown...
+[2026.01.19-18.22.17:584][981]LogStall: Shutdown complete.
+[2026.01.19-18.22.17:644][981]LogSlate: Window 'GasStation - Unreal Editor' being destroyed
+[2026.01.19-18.22.17:778][981]Cmd: QUIT_EDITOR
+[2026.01.19-18.22.17:778][982]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.01.19-18.22.17:786][982]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.01.19-18.22.17:786][982]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.01.19-18.22.17:786][982]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.01.19-18.22.18:157][982]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-18.22.18:162][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-18.22.18:163][982]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2026.01.19-18.22.18:186][982]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.01.19-18.22.18:187][982]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.01.19-18.22.18:190][982]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-18.22.18:190][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-18.22.18:191][982]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-18.22.18:191][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-18.22.18:191][982]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-18.22.18:192][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-18.22.18:192][982]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-18.22.18:193][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-18.22.18:193][982]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-18.22.18:194][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-18.22.18:194][982]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-18.22.18:195][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-18.22.18:195][982]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-18.22.18:195][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-18.22.18:195][982]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-18.22.18:195][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-18.22.18:195][982]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.01.19-18.22.18:201][982]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2026.01.19-18.22.18:201][982]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2026.01.19-18.22.18:201][982]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2026.01.19-18.22.18:548][982]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.01.19-18.22.18:548][982]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.01.19-18.22.18:548][982]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2026.01.19-18.22.18:548][982]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.01.19-18.22.18:548][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.01.19-18.22.18:551][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.01.19-18.22.18:566][982]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.01.19-18.22.18:566][982]LogAudio: Display: Audio Device Manager Shutdown
+[2026.01.19-18.22.18:567][982]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.01.19-18.22.18:570][982]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.01.19-18.22.18:571][982]LogExit: Preparing to exit.
+[2026.01.19-18.22.18:634][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.01.19-18.22.19:762][982]LogEditorDataStorage: Deinitializing
+[2026.01.19-18.22.19:923][982]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.01.19-18.22.19:958][982]LogExit: Editor shut down
+[2026.01.19-18.22.19:965][982]LogExit: Transaction tracking system shut down
+[2026.01.19-18.22.20:371][982]LogExit: Object subsystem successfully closed.
+[2026.01.19-18.22.20:449][982]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.01.19-18.22.21:234][982]LogMemoryProfiler: Shutdown
+[2026.01.19-18.22.21:234][982]LogNetworkingProfiler: Shutdown
+[2026.01.19-18.22.21:234][982]LoadingProfiler: Shutdown
+[2026.01.19-18.22.21:234][982]LogTimingProfiler: Shutdown
+[2026.01.19-18.22.21:702][982]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.01.19-18.22.21:707][982]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2026.01.19-18.22.21:707][982]LogNFORDenoise: NFORDenoise function shutting down
+[2026.01.19-18.22.21:707][982]RenderDocPlugin: plugin has been unloaded.
+[2026.01.19-18.22.21:739][982]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.01.19-18.22.21:739][982]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B68E1BBC0-4278-1E75-12E4-58BB4B23A171%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=972007e14dd99113594182ba2ee8fff8%7Ca26b31dfb9c6476a82e655a349a5f408%7Ce7144c72-738d-4e8f-ba57-015cc9ed8256&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.01.19-18.22.22:298][982]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.01.19-18.22.22:299][982]LogXGEController: Cleaning working directory: C:/Users/Halst/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.01.19-18.22.22:302][982]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.01.19-18.22.22:302][982]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.01.19-18.22.22:302][982]LogPakFile: Destroying PakPlatformFile
+[2026.01.19-18.22.22:953][982]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.01.19-18.22.23:019][982]LogExit: Exiting.
+[2026.01.19-18.22.23:043][982]Log file closed, 01/19/26 18:22:23
