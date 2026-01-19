@@ -3077,3 +3077,227 @@ FPackageName: Skipped package /Game/Models/Layout/SM_GasStationFloor has a valid
 [2026.01.19-14.25.46:112][823]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7877.827148
 [2026.01.19-14.25.47:113][826]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.19-14.25.47:113][826]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7878.493652, Update Interval: 328.503052
+[2026.01.19-14.32.11:748][883]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8263.459961
+[2026.01.19-14.32.12:747][886]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-14.32.12:747][886]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8264.125977, Update Interval: 338.383728
+[2026.01.19-14.32.28:887][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.01.19-14.32.28:899][934]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/1C/BULNWSQ90RLN9DQIWSADXX_Auto8
+[2026.01.19-14.32.28:899][934]LogSavePackage: Moving 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/BULNWSQ90RLN9DQIWSADXX_Auto866255C4B45950D915A54F7920424587A.tmp' to 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/1C/BULNWSQ90RLN9DQIWSADXX_Auto8.uasset'
+[2026.01.19-14.32.28:902][934]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/9V/017PT7TR0JLIAG03HD6U36_Auto8
+[2026.01.19-14.32.28:902][934]LogSavePackage: Moving 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/017PT7TR0JLIAG03HD6U36_Auto835CE9BE24A6CCE409E618383CC233E26.tmp' to 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/9V/017PT7TR0JLIAG03HD6U36_Auto8.uasset'
+[2026.01.19-14.32.28:904][934]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.065
+[2026.01.19-14.32.28:904][934]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2026.01.19-14.32.28:904][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Export_Art/Motel/Interior/Radiator] ([1] browsable assets)...
+[2026.01.19-14.32.28:977][934]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Export_Art/Motel/Interior/Radiator.Radiator]
+[2026.01.19-14.32.28:977][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Export_Art/Motel/Interior/Radiator]
+[2026.01.19-14.32.28:980][934]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Export_Art/Motel/Interior/Radiator_Auto8
+[2026.01.19-14.32.28:980][934]LogSavePackage: Moving 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/Radiator_Auto84B4DBB344BDC298AA78CD487ECD8AE03.tmp' to 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/Autosaves/Game/Models/Export_Art/Motel/Interior/Radiator_Auto8.uasset'
+[2026.01.19-14.32.28:982][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Export_Art/Motel/Interior/DoorHooks] ([1] browsable assets)...
+[2026.01.19-14.32.28:989][934]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Export_Art/Motel/Interior/DoorHooks.DoorHooks]
+[2026.01.19-14.32.28:989][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Export_Art/Motel/Interior/DoorHooks]
+[2026.01.19-14.32.29:189][934]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Export_Art/Motel/Interior/DoorHooks_Auto8
+[2026.01.19-14.32.29:189][934]LogSavePackage: Moving 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/DoorHooks_Auto8A7D997D14E95D84A917836A4371DBF19.tmp' to 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/Autosaves/Game/Models/Export_Art/Motel/Interior/DoorHooks_Auto8.uasset'
+[2026.01.19-14.32.29:191][934]LogFileHelpers: Auto-saving content packages took 0.287
+[2026.01.19-14.38.49:993][ 77]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8661.643555
+[2026.01.19-14.38.50:994][ 80]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-14.38.50:994][ 80]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8662.310547, Update Interval: 344.627838
+[2026.01.19-14.45.28:437][272]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9060.041992
+[2026.01.19-14.45.29:437][275]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-14.45.29:437][275]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9060.708008, Update Interval: 331.837524
+[2026.01.19-14.51.57:207][438]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9448.762695
+[2026.01.19-14.51.58:208][441]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-14.51.58:208][441]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9449.428711, Update Interval: 333.069855
+[2026.01.19-14.58.10:304][557]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9821.817383
+[2026.01.19-14.58.11:304][560]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-14.58.11:304][560]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9822.485352, Update Interval: 345.210114
+[2026.01.19-15.04.45:742][743]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10217.192383
+[2026.01.19-15.04.46:743][746]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-15.04.46:743][746]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10217.859375, Update Interval: 349.751282
+[2026.01.19-15.11.14:168][908]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10605.534180
+[2026.01.19-15.11.15:168][911]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-15.11.15:168][911]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10606.200195, Update Interval: 340.903351
+[2026.01.19-15.14.54:597][570]LogDerivedDataCache: C:/Users/Halst/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.19-15.17.49:614][ 94]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11000.922852
+[2026.01.19-15.17.50:614][ 97]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-15.17.50:614][ 97]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11001.589844, Update Interval: 348.379761
+[2026.01.19-15.24.30:731][297]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11401.992188
+[2026.01.19-15.24.31:731][300]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-15.24.31:731][300]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11402.659180, Update Interval: 311.092865
+[2026.01.19-15.30.13:823][326]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11745.005859
+[2026.01.19-15.30.14:823][329]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-15.30.14:823][329]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11745.672852, Update Interval: 337.808777
+[2026.01.19-15.36.27:589][447]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12118.730469
+[2026.01.19-15.36.28:589][450]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-15.36.28:589][450]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12119.396484, Update Interval: 328.977325
+[2026.01.19-15.42.33:707][545]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12484.789062
+[2026.01.19-15.42.34:706][548]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-15.42.34:706][548]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12485.455078, Update Interval: 318.270813
+[2026.01.19-15.48.32:470][621]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12843.479492
+[2026.01.19-15.48.33:470][624]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-15.48.33:470][624]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12844.145508, Update Interval: 349.824524
+[2026.01.19-15.50.03:779][364]LogStreaming: Display: FlushAsyncLoading(1374): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.19-15.50.03:783][364]LogStaticMesh: Display: Building static mesh FireExtinguisher (Required Memory Estimate: 8.773672 MB)...
+[2026.01.19-15.50.03:807][364]LogStaticMesh: Adjacency [0.00s], tris: 5708, UVs 1
+[2026.01.19-15.50.03:816][364]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2026.01.19-15.50.03:817][364]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-15.50.03:834][364]LogInterchangeEngine: [Pending] Importing
+[2026.01.19-15.50.03:834][364]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Halst/Documents/GitHub/GroupB3DModels/Export Art/Motel/Interior/FireExtinguisher.fbx]
+[2026.01.19-15.50.03:870][364]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/Export_Art/Motel/Interior/FireExtinguisher) ...
+[2026.01.19-15.50.03:975][364]LogStaticMesh: Reduce [0.16s]
+[2026.01.19-15.50.04:027][364]LogStaticMesh: Fallback [0.05s], num tris: 1296
+[2026.01.19-15.50.04:028][364]LogStaticMesh: ConstrainClusters:
+[2026.01.19-15.50.04:028][364]LogStaticMesh:   Input: 92 Clusters, 11626 Triangles and 9465 Vertices
+[2026.01.19-15.50.04:028][364]LogStaticMesh:   Output without splits: 92 Clusters, 11626 Triangles and 9560 Vertices
+[2026.01.19-15.50.04:028][364]LogStaticMesh:   Output with splits: 92 Clusters, 11626 Triangles and 9560 Vertices
+[2026.01.19-15.50.04:029][364]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 92, Slow Path Clusters: 0, 1 Material: 92, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-15.50.04:030][364]LogStaticMesh: WritePages:
+[2026.01.19-15.50.04:030][364]LogStaticMesh:   Root: GPU size: 31316 bytes. 1 Pages. 31316.000 bytes per page (95.569% utilization).
+[2026.01.19-15.50.04:030][364]LogStaticMesh:   Streaming: GPU size: 90852 bytes. 1 Pages (1 with relative encoding). 90852.000 bytes per page (69.315% utilization).
+[2026.01.19-15.50.04:030][364]LogStaticMesh:   Page data disk size: 97708 bytes. Fixup data size: 360 bytes.
+[2026.01.19-15.50.04:030][364]LogStaticMesh:   Total GPU size: 122168 bytes, Total disk size: 98068 bytes.
+[2026.01.19-15.50.04:030][364]LogStaticMesh: Encode [0.00s]
+[2026.01.19-15.50.04:030][364]LogStaticMesh: Nanite build [0.22s]
+
+[2026.01.19-15.50.04:035][364]LogStaticMesh: Built static mesh [0.25s] /Game/Models/Export_Art/Motel/Interior/FireExtinguisher.FireExtinguisher
+[2026.01.19-15.50.04:122][364]LogStaticMesh: Display: Building static mesh FireExtinguisher (Required Memory Estimate: 0.622918 MB)...
+[2026.01.19-15.50.04:123][364]LogStaticMesh: Adjacency [0.00s], tris: 398, UVs 1
+[2026.01.19-15.50.04:124][364]LogStaticMesh: Clustering [0.00s]. Ratio: 1.500000
+[2026.01.19-15.50.04:125][364]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-15.50.04:132][364]LogStaticMesh: Reduce [0.01s]
+[2026.01.19-15.50.04:134][364]LogStaticMesh: Fallback [0.00s], num tris: 336
+[2026.01.19-15.50.04:135][364]LogStaticMesh: ConstrainClusters:
+[2026.01.19-15.50.04:135][364]LogStaticMesh:   Input: 9 Clusters, 776 Triangles and 587 Vertices
+[2026.01.19-15.50.04:135][364]LogStaticMesh:   Output without splits: 9 Clusters, 776 Triangles and 591 Vertices
+[2026.01.19-15.50.04:135][364]LogStaticMesh:   Output with splits: 9 Clusters, 776 Triangles and 591 Vertices
+[2026.01.19-15.50.04:135][364]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 9, Slow Path Clusters: 0, 1 Material: 9, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-15.50.04:135][364]LogStaticMesh: WritePages:
+[2026.01.19-15.50.04:135][364]LogStaticMesh:   Root: GPU size: 8288 bytes. 1 Pages. 8288.000 bytes per page (25.293% utilization).
+[2026.01.19-15.50.04:135][364]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-15.50.04:135][364]LogStaticMesh:   Page data disk size: 7648 bytes. Fixup data size: 56 bytes.
+[2026.01.19-15.50.04:135][364]LogStaticMesh:   Total GPU size: 8288 bytes, Total disk size: 7704 bytes.
+[2026.01.19-15.50.04:135][364]LogStaticMesh: Encode [0.00s]
+[2026.01.19-15.50.04:135][364]LogStaticMesh: Nanite build [0.01s]
+
+[2026.01.19-15.50.04:136][364]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Export_Art/Motel/Interior/FireExtinguisher.FireExtinguisher
+[2026.01.19-15.50.04:149][364]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Halst/Docum...t Art/Motel/Interior/FireExtinguisher.fbx]
+[2026.01.19-15.50.04:149][364]Interchange: Warning: [C:/Users/Halst/Documents/GitHub/GroupB3DModels/Export Art/Motel/Interior/FireExtinguisher.fbx : 'FireExtinguisher', StaticMesh] No smoothing group information was found for this mesh 'Cube_002' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.01.19-15.50.04:158][364]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.19-15.50.04:158][364]LogInterchangeEngine: [Success] Import Done
+[2026.01.19-15.50.12:922][680]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Export_Art/Motel/Interior/FireExtinguisher.FireExtinguisher
+[2026.01.19-15.50.12:922][680]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Export_Art/Motel/Interior/FireExtinguisher.FireExtinguisher
+[2026.01.19-15.50.12:924][680]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Export_Art/Motel/Interior/FireExtinguisher.FireExtinguisher as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_8
+[2026.01.19-15.50.13:318][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.01.19-15.50.13:323][698]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2026.01.19-15.50.38:221][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.01.19-15.50.38:224][808]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.023
+[2026.01.19-15.50.38:225][808]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Export_Art/Motel/Interior/FireExtinguisher] ([1] browsable assets)...
+[2026.01.19-15.50.38:300][808]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Export_Art/Motel/Interior/FireExtinguisher.FireExtinguisher]
+[2026.01.19-15.50.38:300][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Export_Art/Motel/Interior/FireExtinguisher]
+[2026.01.19-15.50.38:304][808]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Export_Art/Motel/Interior/FireExtinguisher_Auto9
+[2026.01.19-15.50.38:304][808]LogSavePackage: Moving 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/FireExtinguisher_Auto9356D58414475368F669292982B0F6CE0.tmp' to 'C:/Users/Halst/Documents/GitHub/GroupB3DModels/GasStation/Saved/Autosaves/Game/Models/Export_Art/Motel/Interior/FireExtinguisher_Auto9.uasset'
+[2026.01.19-15.50.38:305][808]LogFileHelpers: Auto-saving content packages took 0.081
+[2026.01.19-15.53.11:135][336]LogInterchangeEngine: [Pending] Importing
+[2026.01.19-15.53.11:135][336]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Halst/Documents/GitHub/GroupB3DModels/Export Art/Motel/Interior/FireExtinguisher.fbx]
+[2026.01.19-15.53.11:158][336]LogStaticMesh: Display: Building static mesh FireExtinguisher (Required Memory Estimate: 0.623038 MB)...
+[2026.01.19-15.53.11:159][336]LogStaticMesh: Adjacency [0.00s], tris: 398, UVs 1
+[2026.01.19-15.53.11:160][336]LogStaticMesh: Clustering [0.00s]. Ratio: 1.500000
+[2026.01.19-15.53.11:161][336]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-15.53.11:168][336]LogStaticMesh: Reduce [0.01s]
+[2026.01.19-15.53.11:170][336]LogStaticMesh: Fallback [0.00s], num tris: 334
+[2026.01.19-15.53.11:171][336]LogStaticMesh: ConstrainClusters:
+[2026.01.19-15.53.11:171][336]LogStaticMesh:   Input: 9 Clusters, 776 Triangles and 605 Vertices
+[2026.01.19-15.53.11:171][336]LogStaticMesh:   Output without splits: 9 Clusters, 776 Triangles and 609 Vertices
+[2026.01.19-15.53.11:171][336]LogStaticMesh:   Output with splits: 9 Clusters, 776 Triangles and 609 Vertices
+[2026.01.19-15.53.11:171][336]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 9, Slow Path Clusters: 0, 1 Material: 9, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-15.53.11:171][336]LogStaticMesh: WritePages:
+[2026.01.19-15.53.11:171][336]LogStaticMesh:   Root: GPU size: 8480 bytes. 1 Pages. 8480.000 bytes per page (25.879% utilization).
+[2026.01.19-15.53.11:171][336]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-15.53.11:171][336]LogStaticMesh:   Page data disk size: 7724 bytes. Fixup data size: 56 bytes.
+[2026.01.19-15.53.11:171][336]LogStaticMesh:   Total GPU size: 8480 bytes, Total disk size: 7780 bytes.
+[2026.01.19-15.53.11:171][336]LogStaticMesh: Encode [0.00s]
+[2026.01.19-15.53.11:171][336]LogStaticMesh: Nanite build [0.01s]
+
+[2026.01.19-15.53.11:172][336]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Export_Art/Motel/Interior/FireExtinguisher.FireExtinguisher
+[2026.01.19-15.53.11:185][336]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Halst/Docum...t Art/Motel/Interior/FireExtinguisher.fbx]
+[2026.01.19-15.53.11:185][336]Interchange: Warning: [C:/Users/Halst/Documents/GitHub/GroupB3DModels/Export Art/Motel/Interior/FireExtinguisher.fbx : 'FireExtinguisher', StaticMesh] No smoothing group information was found for this mesh 'Cube_002' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.01.19-15.53.11:195][336]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.19-15.53.11:195][336]LogInterchangeEngine: [Success] Import Done
+[2026.01.19-15.53.12:490][340]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Export_Art/Motel/Interior/FireExtinguisher.FireExtinguisher
+[2026.01.19-15.53.12:490][340]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Export_Art/Motel/Interior/FireExtinguisher.FireExtinguisher
+[2026.01.19-15.53.12:491][340]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Export_Art/Motel/Interior/FireExtinguisher.FireExtinguisher as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_9
+[2026.01.19-15.53.12:607][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.01.19-15.53.12:608][342]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.01.19-15.53.13:345][375]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Export_Art/Motel/Interior/FireExtinguisher.FireExtinguisher
+[2026.01.19-15.53.13:345][375]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Export_Art/Motel/Interior/FireExtinguisher.FireExtinguisher
+[2026.01.19-15.53.13:346][375]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Export_Art/Motel/Interior/FireExtinguisher.FireExtinguisher as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_10
+[2026.01.19-15.53.13:794][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.19-15.53.13:796][395]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.01.19-15.53.13:804][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Export_Art/Motel/Interior/FireExtinguisher.FireExtinguisher
+[2026.01.19-15.53.13:804][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Export_Art/Motel/Interior/FireExtinguisher.FireExtinguisher
+[2026.01.19-15.53.13:808][395]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Export_Art/Motel/Interior/FireExtinguisher.FireExtinguisher as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_F02F7454B697DBB602_1850667239
+[2026.01.19-15.53.43:393][355]LogInterchangeEngine: [Pending] Importing
+[2026.01.19-15.53.43:393][355]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Halst/Documents/GitHub/GroupB3DModels/Export Art/Motel/Interior/FireExtinguisher.fbx]
+[2026.01.19-15.53.43:422][355]LogStaticMesh: Display: Building static mesh FireExtinguisher (Required Memory Estimate: 0.623038 MB)...
+[2026.01.19-15.53.43:424][355]LogStaticMesh: Adjacency [0.00s], tris: 398, UVs 1
+[2026.01.19-15.53.43:426][355]LogStaticMesh: Clustering [0.00s]. Ratio: 1.500000
+[2026.01.19-15.53.43:426][355]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-15.53.43:433][355]LogStaticMesh: Reduce [0.01s]
+[2026.01.19-15.53.43:436][355]LogStaticMesh: Fallback [0.00s], num tris: 334
+[2026.01.19-15.53.43:436][355]LogStaticMesh: ConstrainClusters:
+[2026.01.19-15.53.43:436][355]LogStaticMesh:   Input: 9 Clusters, 776 Triangles and 605 Vertices
+[2026.01.19-15.53.43:436][355]LogStaticMesh:   Output without splits: 9 Clusters, 776 Triangles and 609 Vertices
+[2026.01.19-15.53.43:436][355]LogStaticMesh:   Output with splits: 9 Clusters, 776 Triangles and 609 Vertices
+[2026.01.19-15.53.43:436][355]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 9, Slow Path Clusters: 0, 1 Material: 9, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-15.53.43:436][355]LogStaticMesh: WritePages:
+[2026.01.19-15.53.43:436][355]LogStaticMesh:   Root: GPU size: 8480 bytes. 1 Pages. 8480.000 bytes per page (25.879% utilization).
+[2026.01.19-15.53.43:436][355]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-15.53.43:436][355]LogStaticMesh:   Page data disk size: 7724 bytes. Fixup data size: 56 bytes.
+[2026.01.19-15.53.43:436][355]LogStaticMesh:   Total GPU size: 8480 bytes, Total disk size: 7780 bytes.
+[2026.01.19-15.53.43:436][355]LogStaticMesh: Encode [0.00s]
+[2026.01.19-15.53.43:436][355]LogStaticMesh: Nanite build [0.01s]
+
+[2026.01.19-15.53.43:438][355]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Export_Art/Motel/Interior/FireExtinguisher.FireExtinguisher
+[2026.01.19-15.53.43:452][355]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Halst/Docum...t Art/Motel/Interior/FireExtinguisher.fbx]
+[2026.01.19-15.53.43:452][355]Interchange: Warning: [C:/Users/Halst/Documents/GitHub/GroupB3DModels/Export Art/Motel/Interior/FireExtinguisher.fbx : '', Unknown] No smoothing group information was found for this mesh 'BézierCurve' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.01.19-15.53.43:452][355]Interchange: Warning: [C:/Users/Halst/Documents/GitHub/GroupB3DModels/Export Art/Motel/Interior/FireExtinguisher.fbx : 'FireExtinguisher', StaticMesh] No smoothing group information was found for this mesh 'Cube_002' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.01.19-15.53.43:478][355]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.19-15.53.43:478][355]LogInterchangeEngine: [Success] Import Done
+[2026.01.19-15.54.24:278][503]LogInterchangeEngine: [Pending] Importing
+[2026.01.19-15.54.24:278][503]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Halst/Documents/GitHub/GroupB3DModels/Export Art/Motel/Interior/FireExtinguisher.fbx]
+[2026.01.19-15.54.24:301][503]LogStaticMesh: Display: Building static mesh FireExtinguisher (Required Memory Estimate: 0.746379 MB)...
+[2026.01.19-15.54.24:302][503]LogStaticMesh: Adjacency [0.00s], tris: 478, UVs 1
+[2026.01.19-15.54.24:304][503]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.01.19-15.54.24:304][503]LogStaticMesh: Leaves [0.00s]
+[2026.01.19-15.54.24:313][503]LogStaticMesh: Reduce [0.01s]
+[2026.01.19-15.54.24:316][503]LogStaticMesh: Fallback [0.00s], num tris: 400
+[2026.01.19-15.54.24:316][503]LogStaticMesh: ConstrainClusters:
+[2026.01.19-15.54.24:316][503]LogStaticMesh:   Input: 7 Clusters, 856 Triangles and 650 Vertices
+[2026.01.19-15.54.24:316][503]LogStaticMesh:   Output without splits: 7 Clusters, 856 Triangles and 654 Vertices
+[2026.01.19-15.54.24:316][503]LogStaticMesh:   Output with splits: 7 Clusters, 856 Triangles and 654 Vertices
+[2026.01.19-15.54.24:316][503]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 7, Slow Path Clusters: 0, 1 Material: 7, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.19-15.54.24:317][503]LogStaticMesh: WritePages:
+[2026.01.19-15.54.24:317][503]LogStaticMesh:   Root: GPU size: 9004 bytes. 1 Pages. 9004.000 bytes per page (27.478% utilization).
+[2026.01.19-15.54.24:317][503]LogStaticMesh:   Streaming: 0 bytes.
+[2026.01.19-15.54.24:317][503]LogStaticMesh:   Page data disk size: 8652 bytes. Fixup data size: 56 bytes.
+[2026.01.19-15.54.24:317][503]LogStaticMesh:   Total GPU size: 9004 bytes, Total disk size: 8708 bytes.
+[2026.01.19-15.54.24:317][503]LogStaticMesh: Encode [0.00s]
+[2026.01.19-15.54.24:317][503]LogStaticMesh: Nanite build [0.01s]
+
+[2026.01.19-15.54.24:318][503]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Export_Art/Motel/Interior/FireExtinguisher.FireExtinguisher
+[2026.01.19-15.54.24:332][503]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Halst/Docum...t Art/Motel/Interior/FireExtinguisher.fbx]
+[2026.01.19-15.54.24:332][503]Interchange: Warning: [C:/Users/Halst/Documents/GitHub/GroupB3DModels/Export Art/Motel/Interior/FireExtinguisher.fbx : 'FireExtinguisher', StaticMesh] No smoothing group information was found for this mesh 'BézierCurve' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.01.19-15.54.24:350][503]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.19-15.54.24:350][503]LogInterchangeEngine: [Success] Import Done
+[2026.01.19-15.54.42:557][313]Cmd: DELETE
+[2026.01.19-15.54.42:557][313]Cmd: ACTOR DELETE
+[2026.01.19-15.54.42:586][313]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-15.54.42:608][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.01.19-15.54.42:616][313]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2026.01.19-15.54.48:547][697]Cmd: DELETE
+[2026.01.19-15.54.48:547][697]Cmd: ACTOR DELETE
+[2026.01.19-15.54.48:561][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.19-15.54.48:581][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.19-15.54.48:585][697]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.01.19-15.54.53:897][ 60]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13224.895508
+[2026.01.19-15.54.54:039][ 72]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-15.54.54:039][ 72]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13225.025391, Update Interval: 305.844910
