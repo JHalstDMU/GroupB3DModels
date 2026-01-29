@@ -5458,3 +5458,225 @@ Sampler Limit: 32
 [2026.01.29-17.00.59:014][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.01.29-17.00.59:046][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
 [2026.01.29-17.00.59:160][170]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2026.01.29-17.01.24:583][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-17.01.24:648][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/2V/LDT0POISHO1YYGIEFBG158
+[2026.01.29-17.01.24:651][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/LDT0POISHO1YYGIEFBG1588F7312E44833BC4E358BD98FDBC09965.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/2V/LDT0POISHO1YYGIEFBG158.uasset'
+[2026.01.29-17.01.24:667][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MK/NPNBZQMGW60EYK2I6D0RNP
+[2026.01.29-17.01.24:669][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/NPNBZQMGW60EYK2I6D0RNP0EC257EB4A5827643AFAD38795CA44FA.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/MK/NPNBZQMGW60EYK2I6D0RNP.uasset'
+[2026.01.29-17.01.24:678][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/R5/U394ZVVPR8FEENQGS504RU
+[2026.01.29-17.01.24:679][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/U394ZVVPR8FEENQGS504RUB104C4884C6D18A900D2BB88586CA8DE.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/R5/U394ZVVPR8FEENQGS504RU.uasset'
+[2026.01.29-17.01.24:690][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/R5/124LOCZ9NPDMLBQL57MNJC
+[2026.01.29-17.01.24:692][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/124LOCZ9NPDMLBQL57MNJCF88AE43C45D47D100DFD6EBD5570470F.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/R5/124LOCZ9NPDMLBQL57MNJC.uasset'
+[2026.01.29-17.01.24:708][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OA/66E4AM93YME8XJRNEXCF1Q
+[2026.01.29-17.01.24:711][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/66E4AM93YME8XJRNEXCF1Q977EE29C4FE1AA0D895D79BFD4CBF090.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OA/66E4AM93YME8XJRNEXCF1Q.uasset'
+[2026.01.29-17.01.24:727][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/Y4/25EP0C537RI1YV1V3XXUGA
+[2026.01.29-17.01.24:730][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/25EP0C537RI1YV1V3XXUGA081AE7934A328951574CD698EC73A20E.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/Y4/25EP0C537RI1YV1V3XXUGA.uasset'
+[2026.01.29-17.01.24:737][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/2O/PMUQOKI09DBBR653ZNBA5P
+[2026.01.29-17.01.24:739][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/PMUQOKI09DBBR653ZNBA5P19A93C6D48D4315ED12A72AB4234BE9E.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/2O/PMUQOKI09DBBR653ZNBA5P.uasset'
+[2026.01.29-17.01.24:749][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/11/URS22O1Z7B94Q2H9A1MB0M
+[2026.01.29-17.01.24:751][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/URS22O1Z7B94Q2H9A1MB0M2C133D1B437F3C4FF9EF3982EE8F9343.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/11/URS22O1Z7B94Q2H9A1MB0M.uasset'
+[2026.01.29-17.01.24:772][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/WZ/XXWNFCCMIB0LQHP37QVBOY
+[2026.01.29-17.01.24:774][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/XXWNFCCMIB0LQHP37QVBOY02F15EA942E30B4F0EA57BB6B8F3AA95.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/WZ/XXWNFCCMIB0LQHP37QVBOY.uasset'
+[2026.01.29-17.01.24:783][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/ZS/W6DH3L4C5G5JKC07VGKADT
+[2026.01.29-17.01.24:785][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/W6DH3L4C5G5JKC07VGKADT33060A6C4AB9E2A8E6D8E08CEB12D91D.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/ZS/W6DH3L4C5G5JKC07VGKADT.uasset'
+[2026.01.29-17.01.24:802][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/9H/7CM2ZH30DKV3AYK7AQPDOR
+[2026.01.29-17.01.24:804][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/7CM2ZH30DKV3AYK7AQPDOR9B62ECCC4F2B48EA9A58F4B92E18827F.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/9H/7CM2ZH30DKV3AYK7AQPDOR.uasset'
+[2026.01.29-17.01.24:821][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/A5/H1FIQK3ZMUQQB6JWON3DO8
+[2026.01.29-17.01.24:824][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/H1FIQK3ZMUQQB6JWON3DO81B2BF7DA4BBCCAB9955D7C93C2CCCD9D.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/A5/H1FIQK3ZMUQQB6JWON3DO8.uasset'
+[2026.01.29-17.01.24:833][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/UR/V1EMF3094XU2V67XSAG3TY
+[2026.01.29-17.01.24:834][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/V1EMF3094XU2V67XSAG3TY94AD81A84DF508D7C792209E9B1B90B7.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/UR/V1EMF3094XU2V67XSAG3TY.uasset'
+[2026.01.29-17.01.24:855][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/3X/9T9PO842BXBSLZJVAGY7FB
+[2026.01.29-17.01.24:857][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/9T9PO842BXBSLZJVAGY7FBECF3D8834BFC3922BB5C58B3D402101B.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/3X/9T9PO842BXBSLZJVAGY7FB.uasset'
+[2026.01.29-17.01.24:877][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/CN/N7KUI6WAGHXTFRX7F3CU1E
+[2026.01.29-17.01.24:879][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/N7KUI6WAGHXTFRX7F3CU1E01BB0DFB4D52E469D09F93BA8FD0F5ED.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/CN/N7KUI6WAGHXTFRX7F3CU1E.uasset'
+[2026.01.29-17.01.24:895][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/1Q/D4F9V57OM263IVI80N455N
+[2026.01.29-17.01.24:898][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/D4F9V57OM263IVI80N455NDECEAF6A442651B043BEF7AF5713999E.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/1Q/D4F9V57OM263IVI80N455N.uasset'
+[2026.01.29-17.01.24:923][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/KT/4LYAN97F44F2JK770C0XS6
+[2026.01.29-17.01.24:925][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/4LYAN97F44F2JK770C0XS6C381526A42AE6E91FD4BB5A781088D6D.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/KT/4LYAN97F44F2JK770C0XS6.uasset'
+[2026.01.29-17.01.24:941][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/OQ/NFHQ7DF31DSPZXZ89OMAQ9
+[2026.01.29-17.01.24:943][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/NFHQ7DF31DSPZXZ89OMAQ9D91B75AC4A5743875EAF8CA2133F298A.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/OQ/NFHQ7DF31DSPZXZ89OMAQ9.uasset'
+[2026.01.29-17.01.24:951][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/Q5/M5EKQH7KRCJU4VF8AVKYBI
+[2026.01.29-17.01.24:953][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/M5EKQH7KRCJU4VF8AVKYBI7703DDBA44EE8A1519907BB0CA45D7AC.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/Q5/M5EKQH7KRCJU4VF8AVKYBI.uasset'
+[2026.01.29-17.01.24:969][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/K0/MA7HASI93R6G7CD0TSMSAB
+[2026.01.29-17.01.24:971][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/MA7HASI93R6G7CD0TSMSAB68623D0449C9CA63C529BBA6A4B51F50.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/K0/MA7HASI93R6G7CD0TSMSAB.uasset'
+[2026.01.29-17.01.24:985][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/O4/HL3WWV9RDJISJJJK3CZ6NU
+[2026.01.29-17.01.24:988][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/HL3WWV9RDJISJJJK3CZ6NU819EFEB448F5B4A699BE3EAE834CD323.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/O4/HL3WWV9RDJISJJJK3CZ6NU.uasset'
+[2026.01.29-17.01.25:003][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/ZO/S8E27ATYMNGS75D3SNODR8
+[2026.01.29-17.01.25:005][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/S8E27ATYMNGS75D3SNODR8B316730949A3BAEE9FD34BB0C4CCF0B3.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/ZO/S8E27ATYMNGS75D3SNODR8.uasset'
+[2026.01.29-17.01.25:021][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/MY/LEFIYWLMNGYSXNTWUB4U0D
+[2026.01.29-17.01.25:023][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/LEFIYWLMNGYSXNTWUB4U0D0EC0E6F04202A02EAE9218905673BC47.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/MY/LEFIYWLMNGYSXNTWUB4U0D.uasset'
+[2026.01.29-17.01.25:042][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/XM/0VYLM0I4DQFE1ENIXB3KYE
+[2026.01.29-17.01.25:045][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/0VYLM0I4DQFE1ENIXB3KYEF1D0526844D0BB94D017EC827E423EF9.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/XM/0VYLM0I4DQFE1ENIXB3KYE.uasset'
+[2026.01.29-17.01.25:052][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/75/UBBOO4H8HD7CSJ2AA289U6
+[2026.01.29-17.01.25:054][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/UBBOO4H8HD7CSJ2AA289U62A1751AA4BA71B5E2B495D921505FF0B.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/75/UBBOO4H8HD7CSJ2AA289U6.uasset'
+[2026.01.29-17.01.25:071][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/ZW/39AYBF37HRS4EU7JD5QJRE
+[2026.01.29-17.01.25:073][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/39AYBF37HRS4EU7JD5QJREEA77EDD541A80DB52608E584BA370CB3.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/ZW/39AYBF37HRS4EU7JD5QJRE.uasset'
+[2026.01.29-17.01.25:088][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/TN/MRNSP4PYF0T8AC0D3J48RN
+[2026.01.29-17.01.25:089][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/MRNSP4PYF0T8AC0D3J48RNDD24DC454E4B6933407C9E85C1D67DC9.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/TN/MRNSP4PYF0T8AC0D3J48RN.uasset'
+[2026.01.29-17.01.25:107][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/9M/IKOSOPQYG65B3DSE38VZAJ
+[2026.01.29-17.01.25:109][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/IKOSOPQYG65B3DSE38VZAJ15FEA5994B37720BE2B5CCB317367FBB.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/9M/IKOSOPQYG65B3DSE38VZAJ.uasset'
+[2026.01.29-17.01.25:116][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/NW/4M51TKXWBNZCPZSP87FW5Y
+[2026.01.29-17.01.25:118][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/4M51TKXWBNZCPZSP87FW5Y0684CB3947639B61C6F2E6A2ADFD6EF3.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/NW/4M51TKXWBNZCPZSP87FW5Y.uasset'
+[2026.01.29-17.01.25:134][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/AO/Y2SXULEHL4CLPIKQRCZM7L
+[2026.01.29-17.01.25:137][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/Y2SXULEHL4CLPIKQRCZM7L5E81054C4F2A432ED88C0F9152E12900.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/AO/Y2SXULEHL4CLPIKQRCZM7L.uasset'
+[2026.01.29-17.01.25:146][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/A3/E4I3L5EXXX3F6NZAWHES6E
+[2026.01.29-17.01.25:148][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/E4I3L5EXXX3F6NZAWHES6E913A557447C45D42024374A7149E3F7F.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/A3/E4I3L5EXXX3F6NZAWHES6E.uasset'
+[2026.01.29-17.01.25:164][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/IB/QRH5EY0I1ZWE2Y6ZQZSANG
+[2026.01.29-17.01.25:167][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/QRH5EY0I1ZWE2Y6ZQZSANG1A0F52D54A1609F5FA26858C8F3B2C5F.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/IB/QRH5EY0I1ZWE2Y6ZQZSANG.uasset'
+[2026.01.29-17.01.25:182][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/7Z/TE2M3N0N6MPCUE2D94GYT1
+[2026.01.29-17.01.25:184][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/TE2M3N0N6MPCUE2D94GYT1CF351F3B4D5F624A300850B2B35510E0.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/7Z/TE2M3N0N6MPCUE2D94GYT1.uasset'
+[2026.01.29-17.01.25:192][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/DG/0YKTY0SFS1Z8KDUB4JWBQ3
+[2026.01.29-17.01.25:194][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/0YKTY0SFS1Z8KDUB4JWBQ3B7E9A70245CF497117E41E9337B9820A.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/DG/0YKTY0SFS1Z8KDUB4JWBQ3.uasset'
+[2026.01.29-17.01.25:209][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/AX/7KCN8AWSK92VHGKJ1TLWU7
+[2026.01.29-17.01.25:211][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/7KCN8AWSK92VHGKJ1TLWU7C5E74E444BCA29BD10DC3ABB347C1298.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/AX/7KCN8AWSK92VHGKJ1TLWU7.uasset'
+[2026.01.29-17.01.25:226][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/LU/NONMUVZ6Q6E8TL3LJULOQ6
+[2026.01.29-17.01.25:229][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/NONMUVZ6Q6E8TL3LJULOQ6A94E7BCB4D83D57B79DAEBA2ED72AE12.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/LU/NONMUVZ6Q6E8TL3LJULOQ6.uasset'
+[2026.01.29-17.01.25:246][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/IC/UHBG6UZOXVKVJWOV1I990L
+[2026.01.29-17.01.25:248][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/UHBG6UZOXVKVJWOV1I990L2754DC3546C54BF9450307A6FCF02C82.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/IC/UHBG6UZOXVKVJWOV1I990L.uasset'
+[2026.01.29-17.01.25:256][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/X8/8ZWXAHF7R9WM49JV0ZZ1AM
+[2026.01.29-17.01.25:258][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/8ZWXAHF7R9WM49JV0ZZ1AMF480A3BE41B186E7213B45A78E8DDE2E.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/X8/8ZWXAHF7R9WM49JV0ZZ1AM.uasset'
+[2026.01.29-17.01.25:273][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/SH/WTP5ZVJTDYZ0PNJFXKEAZF
+[2026.01.29-17.01.25:276][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/WTP5ZVJTDYZ0PNJFXKEAZF0889980C448378B7B08F1993F186D53C.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/SH/WTP5ZVJTDYZ0PNJFXKEAZF.uasset'
+[2026.01.29-17.01.25:292][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/V3/I4M0IX1WHF1ERRC0AKP1KQ
+[2026.01.29-17.01.25:294][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/I4M0IX1WHF1ERRC0AKP1KQD34344F744A5E1F745F4819846AE7808.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/V3/I4M0IX1WHF1ERRC0AKP1KQ.uasset'
+[2026.01.29-17.01.25:307][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/79/7B6ZV4985BG54TABH41MTF
+[2026.01.29-17.01.25:309][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/7B6ZV4985BG54TABH41MTF944F0BE048D50CF16256D3A891593DA0.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/79/7B6ZV4985BG54TABH41MTF.uasset'
+[2026.01.29-17.01.25:321][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/9X/60DH81DEY8DR0SVV5NMDT3
+[2026.01.29-17.01.25:323][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/60DH81DEY8DR0SVV5NMDT32A309EAB422306AC639EB5A23B48C9CF.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/9X/60DH81DEY8DR0SVV5NMDT3.uasset'
+[2026.01.29-17.01.25:331][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/7Y/3W6O6YW7QHN1T6OX4MPL36
+[2026.01.29-17.01.25:333][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/3W6O6YW7QHN1T6OX4MPL36872F567348151D21BA06879DD1DC737E.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/7Y/3W6O6YW7QHN1T6OX4MPL36.uasset'
+[2026.01.29-17.01.25:346][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/W9/SG6DJ3G5UG2RN96C344VQK
+[2026.01.29-17.01.25:348][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/SG6DJ3G5UG2RN96C344VQKD24BE378416514B94F7AA0A8D2F7860E.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/W9/SG6DJ3G5UG2RN96C344VQK.uasset'
+[2026.01.29-17.01.25:361][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/41/E84LODD1ZJ72HOU85ULN0O
+[2026.01.29-17.01.25:363][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/E84LODD1ZJ72HOU85ULN0OD6E2CB87415CCD5CE6E646A4B61927AF.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/41/E84LODD1ZJ72HOU85ULN0O.uasset'
+[2026.01.29-17.01.25:370][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/PV/RWBZVJU562541PC46VYF38
+[2026.01.29-17.01.25:372][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/RWBZVJU562541PC46VYF3886C2F9414C3AF8752E3F49992975582D.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/PV/RWBZVJU562541PC46VYF38.uasset'
+[2026.01.29-17.01.25:385][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/M2/7OZT62MJ3A3GSP0106MUWP
+[2026.01.29-17.01.25:387][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/7OZT62MJ3A3GSP0106MUWPA13C602D40F204A3BEF6598F9D9763E4.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/M2/7OZT62MJ3A3GSP0106MUWP.uasset'
+[2026.01.29-17.01.25:400][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/7J/ADV87NSEEV9DFDO1BWIP2F
+[2026.01.29-17.01.25:403][346]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/ADV87NSEEV9DFDO1BWIP2FCD1A7341491C927BE0A8B8AC81007673.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/7J/ADV87NSEEV9DFDO1BWIP2F.uasset'
+[2026.01.29-17.01.25:413][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 830.694 ms (total: 1.23 sec)
+[2026.01.29-17.01.25:488][346]LogContentValidation: Display: Starting to validate 48 assets
+[2026.01.29-17.01.25:488][346]LogContentValidation: Enabled validators:
+[2026.01.29-17.01.25:488][346]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-17.01.25:488][346]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-17.01.25:488][346]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-17.01.25:488][346]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-17.01.25:488][346]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-17.01.25:488][346]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-17.01.25:489][346]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2026.01.29-17.01.27:069][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.01.29-17.01.28:481][421]LogSlate: Window 'Save Content' being destroyed
+[2026.01.29-17.01.28:488][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-17.01.28:534][421]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Models/Built/Motel/Rooms/BP_Room6] ([2] browsable assets)...
+[2026.01.29-17.01.28:535][421]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.01.29-17.01.28:597][421]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Models/Built/Motel/Rooms/BP_Room6.BP_Room6]
+[2026.01.29-17.01.28:597][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Built/Motel/Rooms/BP_Room6]
+[2026.01.29-17.01.28:597][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Built/Motel/Rooms/BP_Room6" FILE="../../../../../../GroupB3DModels/GasStation/Content/Models/Built/Motel/Rooms/BP_Room6.uasset" SILENT=true
+[2026.01.29-17.01.28:617][421]LogSavePackage: Moving output files for package: /Game/Models/Built/Motel/Rooms/BP_Room6
+[2026.01.29-17.01.28:619][421]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/BP_Room6BAAD3BC74768594DA2CD1DBD323D3771.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/Models/Built/Motel/Rooms/BP_Room6.uasset'
+[2026.01.29-17.01.28:622][421]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Models/Built/Motel/Rooms/BP_Room8] ([2] browsable assets)...
+[2026.01.29-17.01.28:623][421]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.01.29-17.01.28:639][421]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Models/Built/Motel/Rooms/BP_Room8.BP_Room8]
+[2026.01.29-17.01.28:639][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Built/Motel/Rooms/BP_Room8]
+[2026.01.29-17.01.28:639][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Built/Motel/Rooms/BP_Room8" FILE="../../../../../../GroupB3DModels/GasStation/Content/Models/Built/Motel/Rooms/BP_Room8.uasset" SILENT=true
+[2026.01.29-17.01.28:654][421]LogSavePackage: Moving output files for package: /Game/Models/Built/Motel/Rooms/BP_Room8
+[2026.01.29-17.01.28:656][421]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/BP_Room8B6C40CF840A21AED6EF428A0D73FE81B.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/Models/Built/Motel/Rooms/BP_Room8.uasset'
+[2026.01.29-17.01.28:661][421]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/Alex_Materials/Gas_Station_Light/MI_GasStationLight] ([1] browsable assets)...
+[2026.01.29-17.01.28:669][421]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Material/Alex_Materials/Gas_Station_Light/MI_GasStationLight.MI_GasStationLight]
+[2026.01.29-17.01.28:669][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/Alex_Materials/Gas_Station_Light/MI_GasStationLight]
+[2026.01.29-17.01.28:686][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.01.29-17.01.28:707][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.01.29-17.01.28:713][421]LogSavePackage: Moving output files for package: /Game/Material/Alex_Materials/Gas_Station_Light/MI_GasStationLight
+[2026.01.29-17.01.28:715][421]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/MI_GasStationLight1479773942A1EFCC0BDF4A90E7455C64.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/Material/Alex_Materials/Gas_Station_Light/MI_GasStationLight.uasset'
+[2026.01.29-17.01.28:721][421]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_Door] ([1] browsable assets)...
+[2026.01.29-17.01.28:728][421]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Export_Art/Motel/MotelKit/MO_Door.MO_Door]
+[2026.01.29-17.01.28:728][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_Door]
+[2026.01.29-17.01.28:728][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Export_Art/Motel/MotelKit/MO_Door" FILE="../../../../../../GroupB3DModels/GasStation/Content/Meshes/Export_Art/Motel/MotelKit/MO_Door.uasset" SILENT=true
+[2026.01.29-17.01.28:735][421]LogSavePackage: Moving output files for package: /Game/Meshes/Export_Art/Motel/MotelKit/MO_Door
+[2026.01.29-17.01.28:737][421]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/MO_Door141B419F4E775B680A87179FAB639E78.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/Meshes/Export_Art/Motel/MotelKit/MO_Door.uasset'
+[2026.01.29-17.01.28:741][421]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_Floor] ([1] browsable assets)...
+[2026.01.29-17.01.28:747][421]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Export_Art/Motel/MotelKit/MO_Floor.MO_Floor]
+[2026.01.29-17.01.28:747][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_Floor]
+[2026.01.29-17.01.28:747][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Export_Art/Motel/MotelKit/MO_Floor" FILE="../../../../../../GroupB3DModels/GasStation/Content/Meshes/Export_Art/Motel/MotelKit/MO_Floor.uasset" SILENT=true
+[2026.01.29-17.01.28:753][421]LogSavePackage: Moving output files for package: /Game/Meshes/Export_Art/Motel/MotelKit/MO_Floor
+[2026.01.29-17.01.28:755][421]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/MO_Floor3857173342BD3521ABC32BBB54DE6E98.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/Meshes/Export_Art/Motel/MotelKit/MO_Floor.uasset'
+[2026.01.29-17.01.28:759][421]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_Roof] ([1] browsable assets)...
+[2026.01.29-17.01.28:766][421]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Export_Art/Motel/MotelKit/MO_Roof.MO_Roof]
+[2026.01.29-17.01.28:766][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_Roof]
+[2026.01.29-17.01.28:766][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Export_Art/Motel/MotelKit/MO_Roof" FILE="../../../../../../GroupB3DModels/GasStation/Content/Meshes/Export_Art/Motel/MotelKit/MO_Roof.uasset" SILENT=true
+[2026.01.29-17.01.28:772][421]LogSavePackage: Moving output files for package: /Game/Meshes/Export_Art/Motel/MotelKit/MO_Roof
+[2026.01.29-17.01.28:774][421]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/MO_Roof2D8C317A4D2A49CB68C27EA1D8458E2F.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/Meshes/Export_Art/Motel/MotelKit/MO_Roof.uasset'
+[2026.01.29-17.01.28:779][421]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_SW_Corner] ([1] browsable assets)...
+[2026.01.29-17.01.28:787][421]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Export_Art/Motel/MotelKit/MO_SW_Corner.MO_SW_Corner]
+[2026.01.29-17.01.28:787][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_SW_Corner]
+[2026.01.29-17.01.28:792][421]LogSavePackage: Moving output files for package: /Game/Meshes/Export_Art/Motel/MotelKit/MO_SW_Corner
+[2026.01.29-17.01.28:794][421]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/MO_SW_Corner6E1A3FCC4B80C12552FFD0B342D17626.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/Meshes/Export_Art/Motel/MotelKit/MO_SW_Corner.uasset'
+[2026.01.29-17.01.28:799][421]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_SW_X] ([1] browsable assets)...
+[2026.01.29-17.01.28:806][421]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Export_Art/Motel/MotelKit/MO_SW_X.MO_SW_X]
+[2026.01.29-17.01.28:806][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_SW_X]
+[2026.01.29-17.01.28:806][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Export_Art/Motel/MotelKit/MO_SW_X" FILE="../../../../../../GroupB3DModels/GasStation/Content/Meshes/Export_Art/Motel/MotelKit/MO_SW_X.uasset" SILENT=true
+[2026.01.29-17.01.28:810][421]LogSavePackage: Moving output files for package: /Game/Meshes/Export_Art/Motel/MotelKit/MO_SW_X
+[2026.01.29-17.01.28:812][421]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/MO_SW_X71B26AB14971AA4BCB8D2DA97F2E4800.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/Meshes/Export_Art/Motel/MotelKit/MO_SW_X.uasset'
+[2026.01.29-17.01.28:817][421]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_SW_Z] ([1] browsable assets)...
+[2026.01.29-17.01.28:824][421]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Export_Art/Motel/MotelKit/MO_SW_Z.MO_SW_Z]
+[2026.01.29-17.01.28:825][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_SW_Z]
+[2026.01.29-17.01.28:825][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Export_Art/Motel/MotelKit/MO_SW_Z" FILE="../../../../../../GroupB3DModels/GasStation/Content/Meshes/Export_Art/Motel/MotelKit/MO_SW_Z.uasset" SILENT=true
+[2026.01.29-17.01.28:830][421]LogSavePackage: Moving output files for package: /Game/Meshes/Export_Art/Motel/MotelKit/MO_SW_Z
+[2026.01.29-17.01.28:831][421]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/MO_SW_Z70392BD74C76F7E6D67183A2DEBEE88B.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/Meshes/Export_Art/Motel/MotelKit/MO_SW_Z.uasset'
+[2026.01.29-17.01.28:836][421]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_Corner] ([1] browsable assets)...
+[2026.01.29-17.01.28:844][421]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_Corner.MO_WA_Corner]
+[2026.01.29-17.01.28:844][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_Corner]
+[2026.01.29-17.01.28:849][421]LogSavePackage: Moving output files for package: /Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_Corner
+[2026.01.29-17.01.28:851][421]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/MO_WA_Corner101703954C4DFF3B60D86F83B08D9B04.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/Meshes/Export_Art/Motel/MotelKit/MO_WA_Corner.uasset'
+[2026.01.29-17.01.28:855][421]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_Flat] ([1] browsable assets)...
+[2026.01.29-17.01.28:862][421]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_Flat.MO_WA_Flat]
+[2026.01.29-17.01.28:862][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_Flat]
+[2026.01.29-17.01.28:862][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_Flat" FILE="../../../../../../GroupB3DModels/GasStation/Content/Meshes/Export_Art/Motel/MotelKit/MO_WA_Flat.uasset" SILENT=true
+[2026.01.29-17.01.28:867][421]LogSavePackage: Moving output files for package: /Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_Flat
+[2026.01.29-17.01.28:869][421]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/MO_WA_FlatB54CE0414CC62476FB38EF8DFA4C23D2.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/Meshes/Export_Art/Motel/MotelKit/MO_WA_Flat.uasset'
+[2026.01.29-17.01.28:873][421]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_WinFull] ([1] browsable assets)...
+[2026.01.29-17.01.28:881][421]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_WinFull.MO_WA_WinFull]
+[2026.01.29-17.01.28:881][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_WinFull]
+[2026.01.29-17.01.28:886][421]LogSavePackage: Moving output files for package: /Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_WinFull
+[2026.01.29-17.01.28:888][421]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/MO_WA_WinFull8C4D2530439700799D726B98933BAD3B.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/Meshes/Export_Art/Motel/MotelKit/MO_WA_WinFull.uasset'
+[2026.01.29-17.01.28:894][421]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_WinLeft] ([1] browsable assets)...
+[2026.01.29-17.01.28:901][421]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_WinLeft.MO_WA_WinLeft]
+[2026.01.29-17.01.28:901][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_WinLeft]
+[2026.01.29-17.01.28:907][421]LogSavePackage: Moving output files for package: /Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_WinLeft
+[2026.01.29-17.01.28:908][421]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/MO_WA_WinLeftA538DC7B47E9F7388CA1D69EF9F1FA5C.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/Meshes/Export_Art/Motel/MotelKit/MO_WA_WinLeft.uasset'
+[2026.01.29-17.01.28:912][421]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_WinRight] ([1] browsable assets)...
+[2026.01.29-17.01.28:919][421]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_WinRight.MO_WA_WinRight]
+[2026.01.29-17.01.28:919][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_WinRight]
+[2026.01.29-17.01.28:925][421]LogSavePackage: Moving output files for package: /Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_WinRight
+[2026.01.29-17.01.28:927][421]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/MO_WA_WinRightD30A5E3C4742E4EC5A70D8A463B288D9.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/Meshes/Export_Art/Motel/MotelKit/MO_WA_WinRight.uasset'
+[2026.01.29-17.01.28:930][421]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MoTest/StreetLight_Blueprint] ([2] browsable assets)...
+[2026.01.29-17.01.28:939][421]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MoTest/StreetLight_Blueprint.StreetLight_Blueprint]
+[2026.01.29-17.01.28:939][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/MoTest/StreetLight_Blueprint]
+[2026.01.29-17.01.28:939][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MoTest/StreetLight_Blueprint" FILE="../../../../../../GroupB3DModels/GasStation/Content/MoTest/StreetLight_Blueprint.uasset" SILENT=true
+[2026.01.29-17.01.28:950][421]LogSavePackage: Moving output files for package: /Game/MoTest/StreetLight_Blueprint
+[2026.01.29-17.01.28:952][421]LogSavePackage: Moving '../../../../../../GroupB3DModels/GasStation/Saved/StreetLight_Blueprint20785D134F84317EEDA7F0B596555341.tmp' to '../../../../../../GroupB3DModels/GasStation/Content/MoTest/StreetLight_Blueprint.uasset'
+[2026.01.29-17.01.28:962][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 474.000 ms (total: 1.71 sec)
+[2026.01.29-17.01.29:033][421]LogContentValidation: Display: Starting to validate 15 assets
+[2026.01.29-17.01.29:033][421]LogContentValidation: Enabled validators:
+[2026.01.29-17.01.29:033][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-17.01.29:033][421]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-17.01.29:033][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-17.01.29:033][421]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-17.01.29:033][421]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-17.01.29:033][421]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-17.01.29:033][421]AssetCheck: /Game/Models/Built/Motel/Rooms/BP_Room6 Validating asset
+[2026.01.29-17.01.29:033][421]AssetCheck: /Game/Models/Built/Motel/Rooms/BP_Room8 Validating asset
+[2026.01.29-17.01.29:033][421]AssetCheck: /Game/Material/Alex_Materials/Gas_Station_Light/MI_GasStationLight Validating asset
+[2026.01.29-17.01.29:033][421]AssetCheck: /Game/Meshes/Export_Art/Motel/MotelKit/MO_Door Validating asset
+[2026.01.29-17.01.29:033][421]AssetCheck: /Game/Meshes/Export_Art/Motel/MotelKit/MO_Floor Validating asset
+[2026.01.29-17.01.29:033][421]AssetCheck: /Game/Meshes/Export_Art/Motel/MotelKit/MO_Roof Validating asset
+[2026.01.29-17.01.29:033][421]AssetCheck: /Game/Meshes/Export_Art/Motel/MotelKit/MO_SW_Corner Validating asset
+[2026.01.29-17.01.29:033][421]AssetCheck: /Game/Meshes/Export_Art/Motel/MotelKit/MO_SW_X Validating asset
+[2026.01.29-17.01.29:033][421]AssetCheck: /Game/Meshes/Export_Art/Motel/MotelKit/MO_SW_Z Validating asset
+[2026.01.29-17.01.29:033][421]AssetCheck: /Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_Corner Validating asset
+[2026.01.29-17.01.29:034][421]AssetCheck: /Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_Flat Validating asset
+[2026.01.29-17.01.29:034][421]AssetCheck: /Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_WinFull Validating asset
+[2026.01.29-17.01.29:034][421]AssetCheck: /Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_WinLeft Validating asset
+[2026.01.29-17.01.29:034][421]AssetCheck: /Game/Meshes/Export_Art/Motel/MotelKit/MO_WA_WinRight Validating asset
+[2026.01.29-17.01.29:034][421]AssetCheck: /Game/MoTest/StreetLight_Blueprint Validating asset
