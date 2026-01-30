@@ -1,1 +1,0 @@
-Drop your assets, preferably in your own folder
